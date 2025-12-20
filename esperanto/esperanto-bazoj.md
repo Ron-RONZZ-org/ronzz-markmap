@@ -104,12 +104,11 @@
     - lingvistiko
   - homscienco
     - historio
-    - 
   - arto
     - muziko
     - literaturo
   - Filozofia
-  - religio
+  - Religio
     - kristanismo
     - judismo
     - islamo
@@ -138,8 +137,11 @@
       - ĝojas
       - finas
       - ludas
-      - Renkontiĝas
+      - renkontiĝas
+        - cafejo
       - legas
+        - libro
+        - legosignoj
 - konjunkcioj
   - kaj
   - Aŭ
