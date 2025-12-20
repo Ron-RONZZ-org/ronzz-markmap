@@ -1,0 +1,94 @@
+# Electrical signals and alternative currents
+
+- Signal : variation
+  - Voltage `U`
+  - Current `I`
+- Classification
+  - <iframe src="https://img.ronzz.org/img/science/physics/electricity/electrical-signals-types-diagram.html" class="venn-diagram" loading="lazy" width="300" allowfullscreen></iframe>
+  - <iframe src="https://img.ronzz.org/img/science/physics/electricity/electrical-signals-classes-diagram.html" class="venn-diagram" loading="lazy" width="300" allowfullscreen></iframe>
+- Binary computer signal
+  - 
+- Signal characters
+  - <img src="https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/waveforms-tim62.jpg" alt="typical electrical wave form" style="width: 300px;">
+  - form
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Waveforms.svg//upload.wikimedia.org/wikipedia/commons/a/a3/Waveform-above.png" alt="complex waveforms" style="width: 300px;">
+  - periodicity
+    - period `T`
+    - frequency `f`
+    - $f=\frac{1}{T}$
+  - amplitude
+    - peak $A$
+      - positive
+        - $max-average$
+      - negative
+        - $min-average$
+      - peak-to-peak
+        - $max-min$
+    - average
+    - effective
+- Periodic signals
+  - average value : $\frac{1}{T}\int_{0}^{T}\left| S(t)  \right| dt$
+  - effective value (RMS): $(\frac{1}{T}\int_{0}^{T}\left| S(t)  \right|² dt)^\frac{1}{2}$
+  - Sinusoidal
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sine_wave_10_kHz_displayed_on_analog_oscilloscope.jpg" alt="Sin signal2" style="width: 300px;">
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Sinus_amplitude_en.svg" alt="Sin signal2" style="width: 300px;">
+    - $i(t)=I_{M}sin(wt+\varphi)$
+    - effective value
+      - $U_{eff}=\frac{U_{max}}{\sqrt{2}}$
+      - $I_{eff}=\frac{I_{max}}{\sqrt{2}}$
+    - phase shift
+      - <img src="https://img.ronzz.org/img/science/physics/electricity/sine-wave-phase-shift.svg" alt="phase-shift" style="width: 300px;">
+      - $\varphi=\frac{2\pi\Delta t}{T}$
+    - active/reactive components
+      - active
+        - <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Resistors-various-01.jpeg" alt="resistors" style="width: 300px;">
+        - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Resistance.jpg" alt="resistance française" style="width: 300px;">
+        - active power $P=I_{rms}^2R$
+        - unit : Watts $W$
+      - reactive
+        - reactive power $Q=I_{rms}^2X=\frac{U_{rms}^2}{X}$
+        - X : reactance
+        - unit : Volt-Ampere-Reactive $VAR$ 
+        - energy TEMPORARILY stored in reactive components
+          - before flowing back to power source
+          - **$0$** comsumption
+    - apparent power `S`
+      - $S=U_{rms}I_{rms}=I^2 Z = \frac{U_{rms}^2}{Z}$
+      - Z : impedance
+      - unit : Volt-Ampere $VA$
+      - Electric power tirangle <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Electric_power_factor.svg" alt="power factor" style="width: 300px;">
+        - $S=P+Qi$
+        - $S^2=P^2+Q^2$
+        - $U(t)=U_{max}e^{jwt}$
+        - $I(t)=I_{max}e^{jwt}$
+    - $Power\ Factor=\frac{P}{S}$
+      - measures of efficiency
+      - For $P=k$, P.F.\downarrow \longrightarrow S\uparrow \longrightarrow I\uparrow$
+        - results in oversizing generators, transmission lines, and transformers
+      - application : power companies now charge a penalty for low power factor
+      - improving $P.F. : \varphi \downarrow \longrightarrow P.F.\uparrow$
+    - impedance `Z`
+      - associative laws
+        - series : $Z_{eq}=\sum_{i=1}^{N}Z_i$
+        - parallel : $\frac{1}{Z_{eq}}=\sum_{i=1}^{N}\frac{1}{Z_i}$
+      - Ohm's law in complex form : $U=ZI$
+      - expression
+        - cartesian : $Z=a+jb$
+          - $a=\left| Z \right|cos\varphi$
+          - $b=\left| Z \right|sin\varphi$
+          - $tan\varphi=\frac{b}{a}
+        - polar : $Z=\left| Z \right|e^{j\theta}$
+      - calculation
+        - resistor :$Z=R$
+        - inductor : $Z=X_{L}j+R=jwL+R$
+          - R : coil DC resistance, core loss (eddy currents, hysteresis)
+          - L : $U=L\frac{dI(t)}{dt}$
+        - capacitor : $Z=X_{C}j+R=\frac{1}{jwC}+R$ 
+          - R
+            - dielectric (insulator between plates) losses
+            - metallic leads DC resistance
+          - $X_{C}$ : 
+            - $I=C\frac{dU(t)}{dt}$
+            - $X_{C}j=\frac{U}{I}=\frac{U}{C\frac{dU}{dt}}=\frac{U}{CjwU}=\frac{1}{jwc}$
+        - real-life modelling
+          - <img src="https://img.ronzz.org/img/science/physics/electricity/RLC-equivalence.png" alt="RLC-equivalence" style="width: 300px;">

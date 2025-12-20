@@ -1,0 +1,46 @@
+# <a href="https://www.cgt.fr/actualites/france/emploi-mobilisation-industrie/industrie-malgre-la-situation-alarmante-6-entreprises-sauvees-par-leurs-salariees" target="_blank">Industrie : 6 entreprises sauvées par leurs salarié·es</a>
+
+## Mobilisation ouvrière décisive : CGT et salarié·es portent des projets de reconversion et de reprise
+
+- Reconversion charbon → biomasse
+	- Maintien d'emplois
+  - Transition écologique locale
+  - Embauches en 2025
+  - Gardanne
+
+- Réouverture après lutte
+  - Préemption
+  - Soutien public
+  - Relance papetière durable
+  - ~170 emplois
+  - Chapelle-Darblay
+
+- Sauvegardé 300 emplois avec coopération d'État
+  - Diversification clients
+  - Modernisation
+  - Gains d’efficacité énergétique
+  - Fonderie de Bretagne
+
+- Reprise en SCOP
+  - ~60 % des salarié·es associés
+  - Gouvernance démocratique
+  - Levée de fonds
+  - Duralex
+
+- Reprise axée décarbonation
+  - Mobilisation
+  - Partenariats locaux
+  - Engagements pour la transition
+  - Valdunes
+
+- Nationalisation votée
+  - Mobilisation prolongée
+  - Appel à mise en œuvre immédiate
+  - Arcelor‑Mittal
+
+## Constats
+  - Luttes longues et contraignantes
+  - Alliances locales et financements publics nécessaires
+  - Modèles collectifs et reconversions industrielles crédibles
+  - Nécessité d’une politique industrielle volontariste
+    - et d’un soutien de l’État

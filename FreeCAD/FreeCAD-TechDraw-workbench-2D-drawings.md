@@ -1,0 +1,37 @@
+## Creating 2D drawings
+- G-code for technicians
+  - manufacturing/assembly instructions
+    - for things too big/complex to be directly manufactured on a CNC mill
+      - smartphone
+      - buildings
+  - "gold standard" : IKEA instructions
+- key steps
+  - create drawing : `Techdraw>Page>Insert page using template`
+    - if not sure, default to ISO templates
+  - insert view <img src="https://img.ronzz.org/img/freeCAD/capture_17-12-2025-08-47-11.png" alt="insert view" style="width: 300px;">
+    - **ENSURE to select objects before clicking on `insert view` !!**
+    - `scale:automatic`
+    - `direction: {use arrows to adjust to desired front view}`
+    - `Secondary projections : {add desired secondary views}`
+    - `auto distribute : true`
+  - Edit after creation : `Main window > Model/data view` <img src="https://img.ronzz.org/img/freeCAD/capture_17-12-2025-08-56-32.png" alt="data view" style="width: 300px;">
+  - `Edit-Refresh`
+    - automatic refresh on edit disabled for large objects
+  - geometric dimensioning and tolerancing
+    - dimension and annotate
+      - Option A : draft workbench
+        - Draft workbench > <img src="https://img.ronzz.org/img/freeCAD/Draft_Dimension.svg" alt="dimension" style="width: 300px;"><a href="https://wiki.freecad.org/Draft_Dimension" target="_blank">Dimension</a>
+        - <a href="https://wiki.freecad.org/TechDraw_DraftView" target="_blank">TechDraw DraftView</a>
+      - Option B : directly in Techdraw workbench
+        - Insert dimension <img src="https://img.ronzz.org/img/freeCAD/capture_17-12-2025-09-23-40.png" alt="Insert dimension">
+      - geometric tolerances
+        - tolerance indicator
+        - datum
+        - <a href="https://wiki.freecad.org/TechDraw_Geometric_dimensioning_and_tolerancing#Geometrical_Tolerancing" target="_blank">Official guide</a>
+        - For geometric tolerance symbols : <a href="https://wiki.freecad.org/TechDraw_ExtensionCustomizeFormat" target="_blank">TechDraw ExtensionCustomizeFormat</a>
+  - title block
+    - `Techdraw>Page>Update template fields`
+- practice : IKEA chair draw
+  - <a href="https://github.com/FreeCAD/FreeCAD-library/blob/master/Industrial%20Design/Chairs/IkeaLikeChair.fcstd" target="_blank">3D CAD model</a>
+  - <a href="https://wiki.freecad.org/Manual:Generating_2D_drawings" target="_blank">instructions</a>
+

@@ -1,0 +1,14 @@
+# CV
+- une présentation de soi en 20s 
+  - expérience 
+    - pas forcément vérifié
+    - mais toujours lu attentivement
+  - éducation 
+    - parcour cohérent
+  - césure inexpliqué ? 
+    - un signe
+      - paresse ?
+      - problèmes de santé ?
+- clés 
+  - claire
+  - mémorable

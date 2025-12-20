@@ -1,0 +1,48 @@
+# Exporting for fabrication in FreeCAD
+
+- scenarios
+  - 3D printer
+  - CNC mill/machines
+- verify, convert, reverify
+  - <a href="https://wiki.freecad.org/Part_CheckGeometry" target="_blank">check geometry</a>
+  - Confirming the accuracy of dimensions
+    - better sure than sorry
+  - Managing degradation: `CAD` > `G-code`
+    - 3D printing : `.STL`
+      - balance between resolution and file size
+    - CNC mill : `.STEP`
+      - better maintenance of geometric integrity
+  - <a href="/search?keynode=FreeCAD%20Mesh%20workbench" target="_blank">Mesh</a> verification
+    - <a href="https://wiki.freecad.org/Mesh_EvaluateSolid" target="_blank">Ensure solidity</a>
+    - <a href="https://wiki.freecad.org/Mesh_Evaluation" target="_blank">Automated evaluation and repair</a>
+- from digital to real world
+  - model slicer for 3D printers
+    - FOSS option : `PrusaSlicer`
+    - slice the model into thin layers, and generate G-codes for each layer
+      - 3D printer follow to build the object layer by layer
+    - unique machine configurations : advanced calibrations necessary
+      - layer height
+      - print speed
+      - infill density
+      - support structures
+    - simulation and print validation
+  - <a href="/search?keynode=FreeCAD%20CAM%20Workbench" target="_blank">CAM Workbench</a>
+    - much more intricate than 3D printing
+      - numerous tools
+      - must account for
+        - material removal
+        - tool geometry
+        - safety margins
+        - all of which are configured manually
+      - requires
+        - defining toolpaths
+        - adjusting cutting depths
+        - selecting appropriate tools
+        - configuring
+          - work offsets
+          - feeds
+          - speeds
+  - machine calibration
+    - bed leveling
+    - stepper motor settings
+    - extruder configuration

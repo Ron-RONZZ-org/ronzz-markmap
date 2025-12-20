@@ -1,0 +1,34 @@
+# University report
+- Key elements
+  - page numbering : per section !
+    - pretext
+    - text
+    - bibliography
+    - annex
+  - sensible font
+    - classic : Times New Roman
+      - ![Times New Roman](../../ronzz-img/public/ISO/fonts/times-new-roman.jpeg)
+    - plus posh : Computer Modern Serif
+      - ![Computer Modern Serif](https://assets.fontsinuse.com/static/samples/2/1904/880/1/570e211d/computer-modern.png)
+  - citation
+    - crossreference
+    - iconographic legend
+- Title page
+  - Title/subtitle
+  - Author
+  - Institution
+  - (Date)
+- Acknowledgements : General to specific
+  - Institution
+  - Family member/friends/significant one
+- Glossary
+  - <2 page, before main body
+  - else after
+- Main text
+  - Introduction
+  - Development
+  - Conclusion
+- Bibliography
+- Annex(optional)
+  - additional information
+    - large citations

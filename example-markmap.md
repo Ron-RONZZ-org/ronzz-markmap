@@ -1,0 +1,73 @@
+# Thomas A. Edison
+
+- Génie inventeur, mais aussi génie de publicité
+  - Capitalisation sur sensationalisme pour
+    - investissement
+      - JP Morgan
+    - vendre
+  - même juste un prototype
+    - une ampoule qui marche pour à peine 2h
+  - une « usine d'invention »
+    - une invention chaque 10 jours 
+    - une majeure chaque 6 mois
+- un polyvalent autodidacte
+  - père épicier
+  - commencé travailler à 13 ans comme un vendeur de journaux
+    - sur les trains
+  - payé deux jours de salaire pour un abonnement à la bibliothèque
+    - (Ouais, à l'éopque c'était pas du tout gratuit)
+- la mentalité de positivité
+  - perdu une partie importante de sa capacité auditive comme un adolescent
+    - soulevé par un conducteur du train par l'oreille
+  - Edison (au moins beaucoup plus tard) l'a vu comme un atout
+    - calme éternel !
+- l'invention
+  - « 1% inspiration, 99% transpiration »
+  - Tests de matériaux
+    - Ampoule
+      - fibre métallique
+      - cheveux des animals
+      - fibre végétale
+- un jouer d'équipe
+  - équipe d'invention
+  - Manhattan lightup project
+    - 2 ans
+    - une équipe des centaines
+    - générateur, câblages sous-terrain, ampoules, fusibles, ...
+- un dormeur
+  - se heurte à un mur $\longarrow$ dormir
+  - <figure>
+    <img src="https://img.ronzz.org/img/wondersOfTheWorld/people/Edison-sleep-table.png" alt="Sleeping Edison" style="width: 50vw;">
+    <figcaption>Edison sleeping on a table in his lab</figcaption>
+</figure>
+- un mari/père difficile
+  - épousé une de ses employées
+    - Mary, opérateuse dans une de ses premières usines
+  - 3 enfants
+  - payé très peu attention à la famille
+    - « My wife, dearly beloved, cannot invent worth a damn »
+- un conservateur fier
+  - refusé d'adopter AC dans son système
+  - immensément fier qu'il a tout conçu
+  - rivalité avec George Westinghouse & Nicolas Tesla
+    - sabotage de l'image publique d'AC
+      - Edison, un opposant de la vie de la peine de mort
+      - Assister en construction de la première chaise exécution eléctrique
+      - pour démontrer qu'AC est dangereux
+      - une exécution qui est devenu une torture extrême
+- 1892 : chasser de l'entreprise il a fondé il y a 14 ans
+  - car JP Morgan et les autres investisseurs sont devenu sûr que DC ne battra jamais AC
+- courage et continuation
+  - pionnier en développement des films
+  - amélioré l'extraction du fer
+    - « Ouais, il invent en chimique comme en physiques
+  - création d'une batterie de stockage à long terme
+  - participé en divers industries
+    - ciment
+      - Stade de Yankees
+      - les premières maisons pré-fabriquées
+    - disques de musique
+- la fin de la vie d'Édison
+  - 84 ans, 1931
+  - 1093 brevets
+    - NY Times : his « genius so magically transformed the everyday world... No one has done more to make the existence so easy and comfortable »

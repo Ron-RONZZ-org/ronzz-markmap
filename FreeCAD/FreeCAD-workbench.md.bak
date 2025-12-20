@@ -1,0 +1,54 @@
+# <a href="/search?keynode=FreeCAD%20Workbenches" target="_blank">FreeCAD Workbenches</a>
+
+## Enabled by Default
+- **Assembly Workbench**
+  - Build & solve mechanical assemblies
+  - Introduced in 1.0
+- **BIM Workbench**
+  - Architectural elements & BIM models
+  - Combines Arch + external BIM (≤0.21)
+- **CAM Workbench**
+  - Produces G-Code instructions
+  - Formerly "Path Workbench" (≤0.21)
+- **Draft Workbench**
+  - 2D tools & basic 2D/3D CAD operations
+- **FEM Workbench**
+  - Finite Element Analysis (FEA) workflow
+- **Material Workbench**
+  - FreeCAD material system
+  - Introduced in 1.0
+- **Mesh Workbench**
+  - Work with triangulated meshes
+- <a href="/search?keynode=FreeCAD%20Part%20Workbench" target="_blank">**Part Workbench**</a>
+  - Geometric primitives & boolean operations
+  - 2D>3D
+- **Part Design Workbench**
+  - Build Part shapes from sketches
+- **Points Workbench**
+  - Work with point clouds
+- **Reverse Engineering Workbench**
+  - Convert shapes/solids/meshes into parametric features
+- **Sketcher Workbench**
+  - Geometry-constrained sketches
+- **Spreadsheet Workbench**
+  - Create & manipulate spreadsheet data
+- **Surface Workbench**
+  - Create & modify surfaces
+  - Similar to Part Builder Face from edges
+- **TechDraw Workbench**
+  - Technical drawings from 3D models
+  - Successor of Drawing Workbench
+
+## Disabled by Default (Introduced in 1.1)
+- **Inspection Workbench**
+  - Tools for examining shapes
+  - Early development stage
+- **OpenSCAD Workbench**
+  - Interoperability with OpenSCAD
+  - Repair CSG model history
+- **Robot Workbench**
+  - Study robot movements
+  - Currently unmaintained
+- **Test Framework Workbench**
+  - Debugging FreeCAD
+- <a href="https://wiki.freecad.org/Manual:All_workbenches_at_a_glance" target="_blank">All workbenches at a glance</a>

@@ -1,0 +1,60 @@
+# Sciences pour l'ingénieur : Licence
+
+- Accès
+  - L1
+    - Parcousup
+    - post-bac
+      - généraux
+        - scientifique
+        - STI2D
+        - STL
+  - L2 et L3
+    - Passerelle
+      - BTS, BUT, CPGE
+- apprentissage
+  - tronc commun
+    - les grands principes
+      - mathématiques
+      - lois de la physique
+      - informatique
+  - parcours (dès L2 ou L3)
+    - électronique
+    - énergie électrique
+    - automatique (EEEA)
+    - génie civil
+    - génie des matériaux
+    - génie mécanique
+    - génie industriel
+    - robotique
+    - systèmes intelligents
+- compétences
+  - modélisation
+  - logiciels de calcul et de simulation
+  - programmation
+  - travaux pratiques
+    - projets sur des systèmes complexes
+      - compétences expérimentales
+        - manipulation d'appareils
+        - techniques de mesure
+        - pratique du travail d'équipe
+- après
+  - s'orienter vers l'une des nombreuses licences professionnelles du secteur (dès L2)
+  - l'école d'ingénieurs (dès L2)
+  - master du domaine des sciences de l'ingénieur (dès L3)
+- Retour d'éxpérience
+  - <a href="https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/ma-1-annee-en/ma-1-annee-en-licence/licence-sciences-pour-l-ingenieur" target="_blank">Ségolène</a>
+    - Positif
+      - Moins intense que des prépas
+      - Approfondir la théorie
+        - les sciences physiques
+        - les sciences pour l’ingénieur
+          - plus concrètes
+          - plus techniques
+          - plus professionnelles
+    - Negatif
+      - Des cours en amphithéâtre
+        - nombre d'étudiants très élévé
+      - Distance avec les enseignants
+- En savoir plus
+  - <a href="https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-licences-de-sciences/la-licence-sciences-pour-l-ingenieur" target="_blank">Onisep : La licence sciences pour l'ingénieur</a>
+  - <a href="https://fst.univ-lorraine.fr/formations/licence-sciences-ingenieur" target="_blank">FST Nancy</a>

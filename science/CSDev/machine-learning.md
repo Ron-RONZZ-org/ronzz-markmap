@@ -1,0 +1,45 @@
+## Machine learning
+
+- Where explicit algorithms fail
+  - gigantic sample space
+    - computer vision
+    - multi-step processes
+      - e.g., chess
+- The first learning machine
+  - <a href="https://youtu.be/lHeR_WMMrto" target="_blank">Donald Michie's Tic-tac-toe machine</a>
+    - "MENACE (Matchbox Educable Noughts&Crosses Engine)"
+    - machine setup
+      - each board state of represented on a match box
+      - equal number of beads inside
+        - each represent one possible next move
+    - learning
+      - draw bead at random and play corresponding move
+      - at conclusion of game :
+      - if "won"
+        - bead_drawn.n+=2 for bead_drawn in beads_drawn_during_game
+      - if "lost"
+        - bead_drawn.n-=1 for bead_drawn in beads_drawn_during_game
+      - if "draw"
+        - bead_drawn.n+=1 for bead_drawn in beads_drawn_during_game
+    - limitations
+      - incapacity to articulate explicit strategy
+        - <img src="https://img.ronzz.org/img/brilliant-graphics/machine-human-hi.svg" alt="machine cannot articulate" style="width: 300px;">
+- Decision boundary
+  - "How many games till quit ?"
+    - <img src="https://img.ronzz.org/img/brilliant-graphics/capture_16-12-2025-16-48-33.png" alt="scenarios recorded" style="width: 300px;">
+    - <img src="https://img.ronzz.org/img/brilliant-graphics/capture_16-12-2025-16-47-04.png" alt="prediction graph" style="width: 300px;">
+    - decision boundary
+      - graphical representation
+        - <img src="https://img.ronzz.org/img/brilliant-graphics/decision-boundary.svg" alt="decision boundary" style="width: 300px;">
+      - mathmematical representation
+        - $I_1+I_2>b$
+      - for a "neuron"
+        - <img src="https://img.ronzz.org/img/brilliant-graphics/laser-decision-boundary.gif" alt="laser-decision-boundary" style="width: 300px;">
+  - "Did I win ?"
+    - <img src="https://img.ronzz.org/img/brilliant-graphics/capture_16-12-2025-17-21-19.png" alt="Winning streak-Overall victory Table" style="width: 300px;">
+    - <img src="https://img.ronzz.org/img/brilliant-graphics/capture_16-12-2025-17-23-15.png" alt="decision-boundary-old-bottle-new-beer?" style="width: 300px;">
+    - new decision boundary
+      - <img src="https://img.ronzz.org/img/brilliant-graphics/capture_16-12-2025-17-23-53.png" alt="new-decision-boundary" style="width: 300px;">
+      - $I_2-I_1\ge b$
+      - laser : negative light intensity ❌
+      - ANN : negative inputs ✅

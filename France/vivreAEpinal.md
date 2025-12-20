@@ -1,0 +1,31 @@
+# Vivre à Épinal
+
+- Bouger
+  - <a href="https://ronzz.org/cbe/" target="_blank">Club Badminton Épinal</a>
+- Manger
+  - à éviter
+    - <a href="https://www.openstreetmap.org/node/3101758560" target="_blank">Snack Akdeniz</a> : aurait réchauffé le même morceau de viande pendant plus d'une semaine
+- Étudier/travailler à distance
+  - <a href="https://www.openstreetmap.org/way/100790734" target="_blank">Bibliothèque Multimédia Intercommunale d’Épinal </a>
+  - <a href="https://www.openstreetmap.org/node/2435277032" target="_blank">Bibliothèque universitaire IUT Hubert Curien</a>
+  - <a href="https://www.openstreetmap.org/way/100817742" target="_blank">Bibliothèque universitaire ENSTIB</a>
+- Se promener
+  - centre-ville
+    - <a href="https://www.openstreetmap.org/way/74171377" target="_blank">Canal des Vosges-Embranchement Épinal</a>
+    - <a href="https://www.openstreetmap.org/relation/10333889" target="_blank">Parc du château</a>
+    - <a href="https://www.openstreetmap.org/way/125667797" target="_blank">Parc du Cours</a>
+  - alentours
+    - <a href="https://www.openstreetmap.org/way/188360523" target="_blank">Chemin Pré-Serpent</a>
+    - <a href="https://www.openstreetmap.org/node/2865326048" target="_blank">Notre-Dame des Trois Vallées</a>
+    - <a href="https://www.openstreetmap.org/way/1280579940" target="_blank">Ruisseau du Char d'Argent </a>
+- Culte
+  - <a href="https://www.openstreetmap.org/way/100806753" target="_blank">Temple et Fraternité d'Épinal</a>
+- Santé
+  - Hôpitals
+    - <a href="https://www.openstreetmap.org/way/1290082134" target="_blank">Centre Hospitalier Émile Durkheim </a>
+    - <a href="https://www.openstreetmap.org/way/788792011" target="_blank">Maison de Santé St Jean</a>
+- Culture
+  - Théâtre
+    - <a href="https://www.openstreetmap.org/way/100817734" target="_blank">Théâtre Municipale</a>
+  - Cinéma
+    - <a href="https://www.openstreetmap.org/way/188070602" target="_blank">Cinés Palace Épinal</a>

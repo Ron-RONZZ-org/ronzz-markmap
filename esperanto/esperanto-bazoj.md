@@ -1,0 +1,180 @@
+## Esperanto bazoj
+- <a href="https://parol.martinrue.com/" target="_blank">Parol – La Voĉroboto Esperanto</a>
+- ekkrio
+  - Salutoj
+    - Saluton !
+    - Adiaŭ !
+    - Kiel vi fartas?
+    - Bonan tagon!
+    - Bonan vesperon!
+    - Bonan semajnfinon!
+- substantivoj
+  - homo
+    - viro/virino
+    - knabo/knabino
+    - Gepatroj 
+      - Patro
+      - Patrino
+    - Geavoj
+      - avo
+      - avino
+    - amiko/amikino
+    - nomo
+    - okupoj
+      - lernanto
+      - studento
+      - instruistoj
+      - kuracisto
+      - kuiri
+      - policisto
+  - pronomoj
+    - <a href="https://img.ronzz.org/esperanto/esperanto-audio/pronomoj-esperanto.mp3" target="_blank">personaj-pronomoj-aŭdio</a>
+      - mi/ni
+      - vi
+      - ŝi/li
+      - ili
+    - aliaj pronomoj
+      - tio
+      - ĉi tiu(j)
+      - tiu(j)
+    - demanda
+      - kio
+      - kiel
+      - Ĉu
+    
+  - kvanto
+    - ambaŭ
+    - 0-10
+      - nulo
+      - unu
+      - du
+      - tri
+      - kvar
+      - kvin
+      - ses
+      - sep
+      - ok
+      - naŭ
+      - dek
+  - geografio
+    - mapo
+    - loko
+      - adreso
+      - konstruaĵoj
+        - universitato
+        - hejmo
+          - domo
+          - ĉambro
+            - dormoĉambro
+        - lernejo
+        - oficejo
+        - publika spaco
+          - kafejo
+          - placo
+      - naturo
+        - arbaro
+        - rivero
+        - maro
+    - landoj/lingvoj
+      - Francio/Franca
+      - Ĉinio/Ĉina
+      - Anglio/Angla
+  - gastronomio
+    - trinkaĵoj
+      - akvo
+      - lakto
+      - kafo
+      - alkoholo
+  - scienco
+    - <a href="https://img.ronzz.org/esperanto/esperanto-audio/scienco-esperanto.mp3" target="_blank">scienco-aŭdio</a>
+    - matematiko
+    - fiziko
+    - kemio
+    - biologio
+    - astronomio
+    - geologio
+    - informadiko
+    - inĝenierarto
+    - psikologio
+    - sociologio
+    - ekonomiko
+    - medicino
+    - farmacio
+    - ekologio
+    - lingvistiko
+  - homscienco
+    - historio
+    - 
+  - arto
+    - muziko
+    - literaturo
+  - Filozofia
+  - religio
+    - kristanismo
+    - judismo
+    - islamo
+    - hinduismo
+    - mistika tradicio
+  - komercoj
+    - vendeio
+    - superbazaro
+    - bakejo
+- verboj
+    - ne-transitivaj
+      - estas
+      - iras
+      - venas
+      - studas
+      - laboras
+      - parolas
+       - Dio parolas al vi
+      - dormas
+      - lernas
+      - ŝatas
+    - transitivaj
+      - havas
+      - manĝas
+      - vojaĝas
+      - ĝojas
+      - finas
+      - ludas
+      - Renkontiĝas
+      - legas
+- konjunkcioj
+  - kaj
+  - Aŭ
+  - ĉar
+  - sed
+  - se
+- prepozicioj
+  - <a href="https://img.ronzz.org/esperanto/esperanto-audio/esperanto-prepozicioj.mp3" target="_blank">prepozicio-aŭdio</a>
+  - en   (in)
+  - sur  (on)
+  - de   (from, of)
+  - al   (to, towards)
+  - kun  (with)
+  - sen  (without)
+  - pri  (about, concerning)
+  - inter (between, among)
+  - ĉe   (at, near)
+  - kontraŭ (against)
+  - tra  (through)
+  - sub  (under, below)
+  - super (above, over)
+  - apud (beside, next to)
+  - por  (for)
+- frazoj
+  - <a href="https://img.ronzz.org/esperanto/esperanto-audio/ne-kredu-esperanto.mp3" target="_blank">Ne kredu al parolo sen propra kontrolo.</a>
+  - Atendu momenton !
+  - Ĉu vi ŝatus
+  - Mi ne povas trovi mian telefonon !
+  - Esti malĝoja estas parto de la vivo
+
+- adjektivoj
+  - bela/malbela
+  - multe/malmulte
+  - granda/malgranda
+  - laca/plena de energio
+  - simpla/komplika
+  - feliĉa/malfeliĉa
+  - kontenta/malkontenta

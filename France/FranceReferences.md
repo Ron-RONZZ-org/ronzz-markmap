@@ -1,0 +1,34 @@
+# France
+
+- Economy
+  - Business
+    - <a href="https://www.economie.gouv.fr/cedef/fiches-pratiques/comment-sont-classees-les-entreprises" target="_blank">Official size classification :  L230-1 et L230-2</a>
+    - <a href="https://annuaire-entreprises.data.gouv.fr/" target="_blank">Annulaire des entreprises</a>
+- Santé
+  - identification
+    - <a href="https://www.ameli.fr/assure/droits-demarches/principes/identite-nationale-sante-ins" target="_blank">L'identité nationale de santé (INS)</a>
+      - matricule INS
+        - dans la majorité des cas, il s’agit du numéro de sécurité sociale (1) ;
+      - 5 traits d’identité :
+         - nom de naissance,
+         - prénom(s) de naissance,
+         - date de naissance,
+         - sexe,
+         - code commune du lieu de naissance.
+- Éducation
+  - identification
+    - <a href="https://www.education.gouv.fr/bo/12/Hebdo16/MENG1135335A.htm" target="_blank">Identifiant National Étudiant (INE)</a>
+    - nom de famille ;
+    - nom d'usage ;
+    - prénoms ;
+    - sexe ;
+    - date de naissance ;
+    - lieu de naissance (mention du « code commune » pour les personnes nées en France ou indication d'une « naissance à l'étranger » pour les autres).
+    - Les données suivantes, qui sont utilisées dans le cas où le traitement automatique d'attribution de l'identifiant national élève n'a pu aboutir, sont également enregistrées :
+      - numéro d'identification du dernier établissement fréquenté ;
+      - date d'admission et date de radiation de l'élève ou de l'étudiant dans le dernier établissement fréquenté.
+- Sécurité sociale
+  - identification
+    - <a href="https://www.insee.fr/fr/information/6665188?sommaire=6665196#titre-bloc-7" target="_blank"> Répertoire national d’identification des personnes physiques (RNIPP)</a>
+    - Les informations enregistrées sont ainsi les éléments d’identité de la personne tels qu’inscrits dans les actes d’état civil détenus par la mairie : nom de naissance et prénoms, sexe, date, lieu de naissance et numéro de l’acte de naissance et, le cas échéant, date et lieu de décès, numéro de l’acte de décès. S’ajoutent parfois la filiation et le nom marital lorsqu’ils sont nécessaires à l’identification (dans les cas d’homonymies notamment) ainsi que les traits d’identité précédents (en cas de changement de nom, prénom, sexe, etc.). Figure également le numéro unique généré par le répertoire au moment de l’inscription, le NIR. Ce numéro restera attaché à la personne et servira de référence tout au long de sa vie mais également après son décès. En effet, le RNIPP ne supprime aucun enregistrement, même après le décès de la personne concernée. Les cas de changement de NIR existent (par exemple en cas de changement de sexe), mais restent très marginaux.
+    - <a href="https://www.insee.fr/fr/information/6665190?sommaire=6665196" target="_blank">système national de gestion des identifiants (SNGI)</a>

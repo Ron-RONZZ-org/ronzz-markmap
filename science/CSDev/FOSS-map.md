@@ -1,0 +1,27 @@
+## <a href="https://www.gnu.org/philosophy/categories.html" target="_blank">FOSS</a> software map
+
+- file transfer
+    - Continuous
+        - Syncthing
+    - Occasional
+        - LocalSend
+- electronic illustration
+    - raster : artistic
+        - Krita
+    - vectorial
+        - InkScape
+- office
+    - graphical
+        - libreOffice
+    - programmatical
+        - laTex (text editing)
+        - python Panda (numerical analysis)
+        - leaftlet.js (maps)
+        - reveal.js (presentation)
+        - markMap (note taking : mindmap)
+- databases
+  - MariaDB
+    - MySQL FOSS
+      - by the original creators who opposed Oracle takeover
+- GIS
+  - <a href="https://grass.osgeo.org/about/license/" target="_blank">GRASS</a> (Geographic Resources Analysis Support System)
