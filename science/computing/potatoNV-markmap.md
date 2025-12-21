@@ -1,10 +1,22 @@
-# Bootloader Log
+# Bootloader unlock on Huawei Kirin CPUs with PotatoNV
 
 ## PotatoNV v2.2.1
 
 - [User manual](https://kutt.it/pnv-en)
 
-## Unlock process
+## Process summary
+  1. Verify images
+  2. Upload hisi960 files
+  3. Wait for device
+  4. Connect and identify
+  5. Write protection blocks
+  6. Reboot
+  7. Generate unlock code
+
+## Multiple unlock attempts required
+
+### Each generates new code
+### Keys change with each run
 
 ### First attempt
 
@@ -48,17 +60,11 @@
 - Operations (same)
 - Result
   - Unlock code: V0FIJR5FG6JVQH90
+### Finally
 
-## Notes
+- ```bash
+  fastboot oem unlock {key}
+  fastboot oem get-bootinfo
+  ```
 
-- Multiple unlock attempts
-  - Each generates new code
-  - Keys change with each run
-- Process steps
-  1. Verify images
-  2. Upload hisi960 files
-  3. Wait for device
-  4. Connect and identify
-  5. Write protection blocks
-  6. Reboot
-  7. Generate unlock code
+

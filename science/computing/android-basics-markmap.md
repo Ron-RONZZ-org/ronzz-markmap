@@ -65,13 +65,13 @@
 ## Android Debug Bridge
 
 - ADB
-  - Communication with device
   - Command-line tool
-- Common commands
-  - `adb devices`
-  - `adb shell`
-  - `adb install`
-  - `adb pull/push`
+  - USB Communication with device
+  - Common commands
+    - `adb devices`
+    - `adb shell`
+    - `adb install`
+    - `adb pull/push`
 
 ## Security
 
