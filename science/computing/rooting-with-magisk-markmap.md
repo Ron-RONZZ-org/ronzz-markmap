@@ -1,0 +1,134 @@
+# Rooting with Magisk
+
+## Workflow
+
+```
+Start
+  ↓
+Install Magisk APK
+  ↓
+Ramdisk exists?
+  ├─ Yes: Locate boot.img or init_boot.img
+  └─ No: Locate recovery.img
+  ↓
+Copy .img to device
+  ↓
+Patch .img with Magisk APK
+  ↓
+Pull patched.img to PC
+  ↓
+Flash patched.img to device
+  ↓
+Reboot and activate Magisk
+  ↓
+End
+```
+
+## Prerequisites
+
+- Unlocked bootloader
+- Magisk APK
+  - The Magic Mask
+  - `com.topjohnwu.magisk`
+- Stock firmware image
+  - boot.img
+  - init_boot.img
+  - Or recovery.img
+
+## Installation steps
+
+### 1. Install Magisk APK
+
+- Download from [official repo](https://github.com/topjohnwu/Magisk)
+- Install on device
+- Do not open yet
+
+### 2. Determine ramdisk
+
+- Check device specs
+- Devices with ramdisk
+  - Use boot.img or init_boot.img
+- Devices without ramdisk
+  - Use recovery.img
+
+### 3. Extract boot image
+
+- From stock firmware
+  - Download from manufacturer
+  - Extract from ROM zip
+- Transfer to device
+  - Via ADB
+  - Via USB file transfer
+
+### 4. Patch image
+
+- Open Magisk APK
+- Select "Install"
+- Choose "Select and Patch a File"
+- Select boot/recovery image
+- Magisk patches the image
+- Output: magisk_patched_[random].img
+
+### 5. Flash patched image
+
+- Pull patched image to PC
+  - ```bash
+    adb pull /sdcard/Download/magisk_patched_*.img
+    ```
+- Reboot to bootloader
+  - ```bash
+    adb reboot bootloader
+    ```
+- Flash patched image
+  - ```bash
+    fastboot flash boot magisk_patched_*.img
+    ```
+  - Or for recovery method:
+    ```bash
+    fastboot flash recovery magisk_patched_*.img
+    ```
+- Reboot
+  - ```bash
+    fastboot reboot
+    ```
+
+### 6. Verify installation
+
+- Open Magisk APK
+- Check status
+  - Should show "Installed"
+- Grant root access as needed
+
+## Features
+
+- Root access management
+- Modules
+  - Systemless modifications
+  - Easy install/uninstall
+- MagiskHide
+  - Hide root from apps
+  - Safety Net bypass
+- Zygisk
+  - Advanced module support
+
+## Safety
+
+- Always backup
+  - Boot partition
+  - Important data
+- Keep stock image
+  - For restoration
+- Test on secondary device first
+- Follow [official guide](https://topjohnwu.github.io/Magisk/install.html)
+
+## Troubleshooting
+
+- Boot loop
+  - Flash stock boot image
+  - Retry with different method
+- SafetyNet fails
+  - Enable MagiskHide
+  - Install Universal SafetyNet Fix
+- Module conflicts
+  - Boot to safe mode
+  - Disable conflicting modules
