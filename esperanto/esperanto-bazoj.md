@@ -10,8 +10,12 @@
     - Bonan semajnfinon!
 - substantivoj
   - homo
-    - viro/virino
-    - knabo/knabino
+    - plenkreskuloj
+      - viro
+      - virino
+    - infanoj
+      - knabo
+      - knabino
     - Gepatroj 
       - Patro
       - Patrino
@@ -19,14 +23,24 @@
       - avo
       - avino
     - amiko/amikino
+      - amatino
+      - koramiko
     - nomo
     - okupoj
       - lernanto
       - studento
       - instruistoj
       - kuracisto
-      - kuiri
+      - kuiro
       - policisto
+    - hararo
+      - bruna
+      - nigra
+      - flava
+    - okuloj
+      - griza
+    - vesto
+      - ŝuoj
   - pronomoj
     - <a href="https://img.ronzz.org/esperanto/esperanto-audio/pronomoj-esperanto.mp3" target="_blank">personaj-pronomoj-aŭdio</a>
       - mi/ni
@@ -40,8 +54,8 @@
     - demanda
       - kio
       - kiel
+      - kiu
       - Ĉu
-    
   - kvanto
     - ambaŭ
     - 0-10
@@ -70,21 +84,70 @@
         - oficejo
         - publika spaco
           - kafejo
+          - restoracio
           - placo
       - naturo
+        - suno/luno
+          - brilas
+          - sunleviĝo
+        - floro
         - arbaro
         - rivero
         - maro
     - landoj/lingvoj
+      - flago
+          - koloro
+            - hela/malhela
       - Francio/Franca
+        - blua
+        - blanka
+        - ruĝa
+      - Esperantio/Esperanta
+        - verda
+        - blanka
       - Ĉinio/Ĉina
       - Anglio/Angla
   - gastronomio
+    - manĝo
+      - matenmanĝo
+        - Iafoje matenmanĝo ne estas parto de mia tago.
+      - tagmanĝo
+      - vespermanĝo
+    - apetito
+    - bongusta
+      - bakejo
+        - sandviĉo
+        - kuko
+        - pano
+        - ĉokolado
+      - fruktoj
+        - pomo
+        - oranĝon
+        - fragojn
+      - legomoj
+        - karoto
+        - tomato
+      - fromaĝo
+      - ĉefa plado
+        - picon
+        - viando
+          - tranças
+          - porkaĵo
+          - bovaĵo
+          - ŝafaĵo 
+      - supo
+        - 
     - trinkaĵoj
       - akvo
       - lakto
-      - kafo
+      - varmaj trinkaĵoj
+        - kafo
+        - teo
+      - nealkoholaĵoj
+        - kokao
       - alkoholo
+        - biero
+        - vino
   - scienco
     - <a href="https://img.ronzz.org/esperanto/esperanto-audio/scienco-esperanto.mp3" target="_blank">scienco-aŭdio</a>
     - matematiko
@@ -104,36 +167,54 @@
     - lingvistiko
   - homscienco
     - historio
+    - filozofia
+      - modelo
+      - racio
   - arto
     - muziko
     - literaturo
-  - Filozofia
-  - Religio
+  - religio
     - kristanismo
     - judismo
     - islamo
     - hinduismo
     - mistika tradicio
   - komercoj
+    - mono
+      - volas
+      - aĉetas
+      - Pardonu, mi ne povas doni al vi monon
     - vendeio
-    - superbazaro
-    - bakejo
+      - superbazaro
+      - bakejo
 - verboj
     - ne-transitivaj
       - estas
       - iras
       - venas
-      - studas
       - laboras
       - parolas
        - Dio parolas al vi
+        - letero
+      - klarigi
+      - komprenas
+      - kantas
+        - kanto
+      - kisas
+        - amo
       - dormas
-      - lernas
-      - ŝatas
+        - longa
     - transitivaj
+      - ŝatas
+      - studas
+      - lernas
+      - skribas
+        - letero
       - havas
+      - donas
       - manĝas
       - vojaĝas
+      - vidas
       - ĝojas
       - finas
       - ludas
@@ -144,7 +225,10 @@
         - cafejo
       - legas
         - libro
-        - legosignoj
+          - legosignoj
+        - jurnalojn
+          - paĝo
+      - scias
 - konjunkcioj
   - kaj
   - Aŭ
@@ -169,17 +253,30 @@
   - apud (beside, next to)
   - por  (for)
 - frazoj
+  - Ĉu ne ?
+  - Pola amas kukojn pli ol min
+  - 
+  - Bonvolu klarigi
+    - ĉu ĉi tio estas negativa ?
   - <a href="https://img.ronzz.org/esperanto/esperanto-audio/ne-kredu-esperanto.mp3" target="_blank">Ne kredu al parolo sen propra kontrolo.</a>
   - Atendu momenton !
-  - Ĉu vi ŝatus
+  - Ili diras, ke estas bela
+    - Ĉu vi ŝatus
   - Mi ne povas trovi mian telefonon !
   - Esti malĝoja estas parto de la vivo
+  - Kiel oni diras "Mi amas vin" en esperanto
 
 - adjektivoj
   - bela/malbela
-  - multe/malmulte
   - granda/malgranda
   - laca/plena de energio
   - simpla/komplika
   - feliĉa/malfeliĉa
   - kontenta/malkontenta
+- adverbo
+  - multe/malmulte
+    - iomete
+  - nur
+  - ankaŭ
+    - kune
+  - denove
