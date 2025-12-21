@@ -32,7 +32,7 @@
       - graphical representation
         - <img src="https://img.ronzz.org/img/brilliant-graphics/decision-boundary.svg" alt="decision boundary" style="width: 300px;">
       - mathmematical representation
-        - $I_1+I_2>b$
+        - $ I_1+I_2>b $
       - for a "neuron"
         - <img src="https://img.ronzz.org/img/brilliant-graphics/laser-decision-boundary.gif" alt="laser-decision-boundary" style="width: 300px;">
   - "Did I win ?"
@@ -40,6 +40,6 @@
     - <img src="https://img.ronzz.org/img/brilliant-graphics/capture_16-12-2025-17-23-15.png" alt="decision-boundary-old-bottle-new-beer?" style="width: 300px;">
     - new decision boundary
       - <img src="https://img.ronzz.org/img/brilliant-graphics/capture_16-12-2025-17-23-53.png" alt="new-decision-boundary" style="width: 300px;">
-      - $I_2-I_1\ge b$
+      - $ I_2-I_1\ge b $
       - laser : negative light intensity ❌
       - ANN : negative inputs ✅

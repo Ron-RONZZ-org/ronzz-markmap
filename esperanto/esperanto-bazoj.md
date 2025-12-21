@@ -137,6 +137,9 @@
       - ĝojas
       - finas
       - ludas
+      - verkas
+      - skribas
+        - subskriboj
       - renkontiĝas
         - cafejo
       - legas
