@@ -10,7 +10,7 @@
 - Term coinage
   - 1613, R. Braithwait
     - Human computers
-  - Late 17 CE
+  - Late 17th century
     - Leibniz's Step Reckoner
     - Pre-computed tables
   - 1800s Charles Babbage

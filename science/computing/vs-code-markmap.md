@@ -32,9 +32,9 @@
 
 ### Terminal
 
-- `CTRL+`` (backtick)
+- CTRL+` (backtick)
   - Open/toggle terminal
-- `CTRL+SHIFT+`` (backtick)
+- CTRL+SHIFT+` (backtick)
   - Create new terminal
 - `ALT+←/→`
   - Switch between terminals (split)
