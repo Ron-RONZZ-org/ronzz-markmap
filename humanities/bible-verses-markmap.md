@@ -1,4 +1,4 @@
-# Bible Verses
+# <a href="/search?keynode=the%20Bible" target="_blank"> Bible</a> Verses
 
 ## Repentance and renewal
 
@@ -16,7 +16,7 @@
 
 ## Secular power
 
-- Render unto Caesar
+- Render to Caesar
   - Matthew 22
   - Context
     - Pharisees testing Jesus

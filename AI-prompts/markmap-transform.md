@@ -6,7 +6,7 @@ Imitate the brief and succinct writing style in `example-markmap-en.md` and tran
 - health: `health/`
 - literature, religion: `humanities/`
 
-and create a symlink for each one in `tmp-markmaps/ 
+and create a symlink for each one in `tmp-markmaps/` 
 
 Name created files in the format of `{subject}-markmap.md` (all lower-case with `-` as word separator)
 

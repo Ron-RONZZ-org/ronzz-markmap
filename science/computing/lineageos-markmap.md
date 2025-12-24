@@ -84,7 +84,7 @@
   - FBE compulsory
 - Custom kernels
   - Can disable FBE
+- Flexibility: Complete system access
 - Trade-offs
-  - Security: FBE protection
-  - Flexibility: Complete system access
-  - Reliability: Lower data loss risk
+  - cannot pass Google Playsafe
+    - most banking apps, etc. will NOT work
