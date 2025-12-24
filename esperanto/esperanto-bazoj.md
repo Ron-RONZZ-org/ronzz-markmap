@@ -49,11 +49,13 @@
       - ili
     - aliaj pronomoj
       - tio
+      - ĝi
       - ĉi tiu(j)
       - tiu(j)
     - demanda
       - kio
       - kiel
+      - kie
       - kiu
       - Ĉu
   - kvanto
@@ -70,6 +72,8 @@
       - ok
       - naŭ
       - dek
+  - la tempo
+    - la periodo
   - geografio
     - mapo
     - loko
@@ -82,31 +86,58 @@
             - dormoĉambro
         - lernejo
         - oficejo
+        - registraro
+          - kvitanco
+          - aplikaĵo 
         - publika spaco
           - kafejo
           - restoracio
           - placo
-      - naturo
-        - suno/luno
-          - brilas
-          - sunleviĝo
-        - floro
-        - arbaro
-        - rivero
-        - maro
-    - landoj/lingvoj
+    - kontinentoj/landoj/lingvoj
       - flago
           - koloro
             - hela/malhela
-      - Francio/Franca
-        - blua
-        - blanka
-        - ruĝa
+      - Eŭropo
+        - La viro el Francio
+        - Francio/Franca
+          - blua
+          - blanka
+          - ruĝa
+        - Britio/Anglio/Angla
+        - Hispanio/Hispana
+        - Germanio/Germana
+        - Rusio
+        - Polo
       - Esperantio/Esperanta
         - verda
         - blanka
-      - Ĉinio/Ĉina
-      - Anglio/Angla
+      - Asio
+        - Ĉinio/Ĉina
+        - Japanio/Japana
+          - vizitas
+      - Afriko
+      - Sudameriko
+        - Brazilo
+        - Ĉilio
+      - Nordameriko
+       - Usono/Usonanoj
+       - Meksiko
+
+
+        - naturo
+        - suno/luno
+          - brilas
+          - sunleviĝo
+        - plantoj
+          - floro
+        - bestoj
+          - ĉevalo
+          - koko/kokino
+          - porko
+        - arbaro
+        - rivero
+        - maro
+
   - gastronomio
     - manĝo
       - matenmanĝo
@@ -166,10 +197,13 @@
     - ekologio
     - lingvistiko
   - homscienco
+    - sociologio
     - historio
     - filozofia
       - modelo
       - racio
+        - valoro
+        - kulturo
   - arto
     - muziko
     - literaturo
@@ -197,6 +231,7 @@
        - Dio parolas al vi
         - letero
       - klarigi
+        - montras
       - komprenas
       - kantas
         - kanto
@@ -255,20 +290,23 @@
 - frazoj
   - Ĉu ne ?
   - Pola amas kukojn pli ol min
-  - 
   - Bonvolu klarigi
     - ĉu ĉi tio estas negativa ?
   - <a href="https://img.ronzz.org/esperanto/esperanto-audio/ne-kredu-esperanto.mp3" target="_blank">Ne kredu al parolo sen propra kontrolo.</a>
   - Atendu momenton !
+  - Mi ne scias ĉu la vendejo ankoraŭ estas malfermita
   - Ili diras, ke estas bela
-    - Ĉu vi ŝatus
+    - Ĉu vi ŝatus ?
+    - Mi ne certas
   - Mi ne povas trovi mian telefonon !
   - Esti malĝoja estas parto de la vivo
-  - Kiel oni diras "Mi amas vin" en esperanto
+  - Kiel oni diras "Mi amas vin" en esperanto ? Mi amas vin !
 
 - adjektivoj
   - bela/malbela
+    - miksita 
   - granda/malgranda
+    - ideala
   - laca/plena de energio
   - simpla/komplika
   - feliĉa/malfeliĉa

@@ -126,10 +126,9 @@
   - `\listoffigures`
 
 - Figures
-  - 
-    ```latex
-    \usepackage{graphicx}
-    ```   
+  ```latex
+  \usepackage{graphicx}
+  ```   
 
   -  
     ```latex
@@ -168,12 +167,10 @@
   - Note: figures can be embedded inside list items as needed.
 
 - Math formulas
-
-  - 
-    ```latex
-    \usepackage{amsmath,amssymb}
-    \usepackage{siunitx}
-    ```
+  ```latex
+  \usepackage{amsmath,amssymb}
+  \usepackage{siunitx}
+  ```
 
   - Equation block : `align*`
     ```latex
@@ -187,11 +184,12 @@
     ```
 
 - Tables
-  - Simple `tabular` example (use `booktabs` for nicer rules):
+  ```latex
+  \usepackage{booktabs}
+  ```
+  
+  -
     ```latex
-    % in preamble
-    \usepackage{booktabs}
-
     % in document
     \begin{table}[h!]
       \centering
@@ -210,12 +208,11 @@
     ```
 
 - Cross-references
-  - Label sections, figures, tables and reference them with `\ref` or `\nameref`.
-    Example:
+  ```latex
+  \usepackage{hyperref}
+  ```
+  - 
     ```latex
-    % in preamble (for clickable links)
-    \usepackage{hyperref}
-
     % in document
     \section{Methods}\label{methods} % add label "methods"
 
@@ -228,6 +225,13 @@
   - `\pageref{key}` → prints the page number where the label appears.  
 
 - Bibliography (biblatex)
+  ```latex
+  % use biber
+  \usepackage[backend=biber,style=authoryear]{biblatex}
+  % Link your Zotero export file
+  \addbibresource{references.bib}
+  ```
+
   - `refs.bib` : generate in citation manager
     - Zotero : Better BibTeX (BBT) plugin
       - ensure consistent keys
@@ -245,12 +249,6 @@
 
   -
     ```latex
-    % in preamble
-    \usepackage[backend=biber,style=authoryear]{biblatex}
-
-    % Link your Zotero export file
-    \addbibresource{references.bib}
-
     \begin{document}
 
     Here is a citation \cite{Einstein1905} in the text.
@@ -263,10 +261,12 @@
 
     \end{document}
     ```
+  - alternative styles
+    - IEEE : `\usepackage[backend=biber,style=numeric]{biblatex}`
+    - APA : `\usepackage[backend=biber,style=apa]{biblatex}`
 
 - Quick and dirty
-  - `\clearpage`
-- Tips
+  - `\clearpage` : start new page
   - `\FloatBarrier` (from `placeins`) : to control float placement.
   - `siunitx` : Consistent units and decimal markers
   - Keep preamble packages **minimal** and add only what you need.

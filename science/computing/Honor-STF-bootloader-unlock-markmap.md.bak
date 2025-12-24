@@ -2,13 +2,13 @@
 
 ## Resources
 
-- <a href="https://github.com/mashed-potatoes/PotatoNV" target="_blank">PotatoNV</a>
+- [PotatoNV](https://github.com/mashed-potatoes/PotatoNV)
   - Free and open-source solution
-  - <a href="https://linktr.ee/potatonv" target="_blank">Official tutorials</a>
-  - <a href="https://www.youtube.com/watch?v=A2y8UCoaigg" target="_blank">Huawei USB COM 1.0 Driver</a>
-- <a href="https://fr.ifixit.com/Vue+%C3%89clat%C3%A9e/Huawei+Honor+9+Teardown/97287?lang=en" target="_blank">IFixit Teardown Guide</a>
-- <a href="https://www.youtube.com/watch?v=wobm5wfcWKM" target="_blank">Test point shorting on Honor STF</a>
-- <a href="https://xdaforums.com/t/rom-huawei-13-leaos-lineage-20-0-for-huawei-device-emui-9-1-version.4560779/" target="_blank">LineageOS for EMUI 9 Huawei</a>
+  - [Official tutorials](https://linktr.ee/potatonv)
+  - [Huawei USB COM 1.0 Driver](https://www.youtube.com/watch?v=A2y8UCoaigg)
+- [IFixit Teardown Guide](https://fr.ifixit.com/Vue+%C3%89clat%C3%A9e/Huawei+Honor+9+Teardown/97287?lang=en)
+- [Test point shorting on Honor STF](https://www.youtube.com/watch?v=wobm5wfcWKM)
+- [LineageOS for EMUI 9 Huawei](https://xdaforums.com/t/rom-huawei-13-leaos-lineage-20-0-for-huawei-device-emui-9-1-version.4560779/)
 
 ## Export
 
@@ -49,14 +49,14 @@
 
 - Install LeaOS
 - Install custom recovery
-  - <a href="https://sourceforge.net/projects/altairfr-huawei/" target="_blank">TWRP fork by altairfr</a>
+  - [TWRP fork by altairfr](https://sourceforge.net/projects/altairfr-huawei/)
 - Flash commands
   - ```bash
     fastboot flash system <system.img>
     fastboot flash recovery_ramdisk <twrp.img>
     fastboot reboot recovery
     ```
-- <a href="https://twrp.me/faq/ADBSideload.html" target="_blank">ADB sideload</a>
+- [ADB sideload](https://twrp.me/faq/ADBSideload.html)
   - TWRP: Advanced → ADB Sideload
   - ```bash
     adb sideload <patch.zip>

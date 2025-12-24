@@ -1,0 +1,21 @@
+# Nancy Astor : première femme ayant siégé au Parlement britannique
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Nancy_Astor.jpg/250px-Nancy_Astor.jpg" alt="Nancy Astor" style="width: 300px;">
+- Une Langhorne
+  - fille de Chiswell Langhorne
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nancy_Viscountess_Astor_by_John_Singer_Sargent.jpeg/250px-Nancy_Viscountess_Astor_by_John_Singer_Sargent.jpeg" alt="Nancy Astor" style="width: 300px;">
+    - Magnat américain de chemin du fer et tabac
+- épouse de Waldorf Astor
+- s'a présenté aux élections pour remplacer son mari
+  - qui était ainsi siéger à la *House of Lords* après le déces de son beau-père
+- s'engageait sur 
+  - le lutte contre alcool
+    - à l'origine de la loi de 1923 prohibant la vente d'alcool aux personnes âgées de moins de 18 ans
+  - la question des droits de femmes
+    - contribuer à la réforme constitutionnelle de 1928
+    - qui donne l'égalité de droit politique aux femmes par rapport aux hommes
+- anticatholiques et antisémites
+- dureté apparente
+  - s'était publiquement réjouie de la mort d'un rival politique
+  - connue pour avoir dit un jour à Churchill : « Winston, si j'étais ton épouse, je mettrais du poison dans ton thé » 
+    - Lequel lui a répondu : « Eh bien moi, Nancy, si j'étais ton époux, je le boirais ! 

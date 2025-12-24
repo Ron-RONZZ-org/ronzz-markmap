@@ -1,0 +1,41 @@
+# Les Forces armées françaises
+
+- effectifs : 250,000
+  - dont 25 % civils 
+  - puissance parmi 5 premières mondiales (<a href="https://nationalinterest.org/blog/buzz/the-5-most-powerful-armies-2030-16994" target="_blank">*The National Interest*</a>)
+  - possède des armes nucléaires
+  - budget : $\approx 2%$ de PIB
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/d/%C3%89volution_des_d%C3%A9penses_militaires_en_pourcentage_du_PIB_depuis_1960.svg/960px-%C3%89volution_des_d%C3%A9penses_militaires_en_pourcentage_du_PIB_depuis_1960.svg.png" alt="budge militaire tendence France" style="width: 300px;">
+- 4 branches
+  - Armée de terre
+  - Marine nationale
+  - Armée de l'air et de l'espace
+- collaboration internationale
+  - membre OTAN
+  - traité de défense avec 
+    - nombreux anciennes colonies en Afrique
+      - Cameroun
+      - Côte d'Ivoire
+      - Djibouti
+      - Sénégal
+      - Comore
+    - et autres
+      - Émirats arabes unis
+      - Qatar
+      - Nigeria
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/b/Defence_agreements_France.svg/250px-Defence_agreements_France.svg.png" alt="France traités de défense" style="width: 300px;">
+
+
+- quartier-général : Hexagone Balard
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/8/Hexagone_Balard_%40_Ballon_de_Paris_%40_Parc_Andr%C3%A9_Citro%C3%ABn_%40_Paris_%2828745446201%29.jpg/500px-Hexagone_Balard_%40_Ballon_de_Paris_%40_Parc_Andr%C3%A9_Citro%C3%ABn_%40_Paris_%2828745446201%29.jpg" alt="Hexagone" style="width: 300px;">
+  - Gendarmerie nationale
+- 17 % des femmes en 2023
+  - 24 % des lauréats aux concours d'officiers
+  - parmi les plus féminisées au monde
+  - tous les métiers désormais ouverts aux tous
+    - dernier bastion : sous-marins d'attaque
+    - nouveaux submersibles pensés pour acceuillir un équipage mixte
+  - pour recruter les meilleurs
+    - les métiers militaires aujourd'hui sont pour l'essentiel des métiers techniques
+    - un français sur deux est une femme
+    - impensable de se priver de la moitié de la population pour recruter les meilleurs

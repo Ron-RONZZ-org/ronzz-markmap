@@ -1,0 +1,156 @@
+# Oswald Mosley : le britannique le plus pire de 20e sièces, selon BBC
+
+- petite enfance
+  - la façade d'or
+    - famille aristocratique et riche
+  - la réalité de l'enfer
+    - père violent et alcoholique
+    - ses parents se sont séparé alors que il a 5 ans
+
+- adolescence
+  - grandi avec mère et grand-père paternel
+    - après sa mère a obtenu une « séparation de corps »
+      - alternative au divorce pour respecter le sacrement de mariage de la religion catholique
+    - à Burton-upon-Trent
+      - une économie quasi-féodale
+      - pratiquement tous les gens de la région travaillant pour sa famille
+  - éducation
+    - Winchester College
+    - Royal military academy of Sandhurst
+      - expulsé après juste 6 mois pour comportement indiscipliné
+- carrière militaire
+  - nommé sous-lieutenant de cavalerie malgré sa expulsion de l'école militaire
+  - s'as porté volontaire pour la toute nouvelle *Royal Flying Corps*
+    - l'ancêtre de la *Royal Air Force*
+  - participé aux plusieurs missions d'observation au-dessus des lignes allemandes
+  - blessé à la jambe pendant un accident lors d'un atterrissage
+  - rappelé au combat quand-même par son unité de cavalerie
+    - pour pallier la pénuire d'officiers
+    - à la suite des pertes lourdes dans les premiers mois
+  - renvoyé plusieurs mois après au royaume-uni pour être opéré
+    - jambe sauvée, mais reste plus courte que l'autre par 4 cm
+    - l'obligeant de porter toute sa vie une chaussure orthopédique
+  - puis travaillé dans un bureau au ministre des affaires étrangères jusqu'à la fin de la guerre
+- le séducteur
+  - Mosley passe le reste de sa vie « jongler » avec plusieurs femmes en même temps
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/a/Oswald_%26_Cynthia_Mosley_1920.jpg/250px-Oswald_%26_Cynthia_Mosley_1920.jpg" alt="Mosley à son mariage" style="width: 300px;">
+  - fréquentait les *Bright Young People*
+    - la jeunesse aristocratique festive des années folles
+- vie politique
+  - élu député pour Harrow en 1918 à la *House of Commons*
+    - à 22 ans
+  - appartenant aux *Conservatives*
+    - politique anti-migratoire «England for English»
+  - défend cependant un program social et étatiste
+    - salaire minimum
+    - réduction du temps de travail
+    - plein emploi
+    - augmentation des bourses universitaires
+    - nationalisation des transports et de l'électricité
+    - protectionisme agraire
+  - s'opposait à la violence contre indépendantistes irlandais
+    - critiqué les « Black and Tans »
+      - une force de police auxiliaire britannique
+      - qualifiée de « gangs de mercenaires » (Jan Daley)
+  - 1920 : passe des rangs de droite à ceux de l'opposition
+    - siégeant en tant qu'indépendant
+  - 1924 : rejoint *Labour*
+    - « le milliardaire rouge »
+  - 1924 : défait par une courte marge par Neville Chamberlain
+    - ayant choisi le défi lui-même par se présenter à Ladywood
+  - 1924-27 : voyage en Inde et aux amériques
+    - écrit *La Révolution par la raison (1925)*
+  - 1927 : revenu au parlement par un autre circonscription
+    - accompagné de sa femme, élue en 1929
+  - 1930 : présenté le *Mosley memorandum*
+    - un program protectionist ambitieux de 5 ans
+    - fuité dans la presse et devenu sujet de débat national
+    - rejeté pour être trop «autoritaire»
+    - cependant récipiendaire d'une ovation debout
+  - 1931 : fondu le *New Party*
+    - s'a fait exclu du *Labour*
+    - dont 6 membre du parlement lui suivaient
+      - 5 membre du *Labour* dont sa femme
+      - 1 membre des *Conservateurs* 
+  - 1931 : débutté le journal *Action*
+  - 1931 : des co-fondateurs quittaient le parti
+    - dénonçant les tendances fascistes de Mosley
+  - 1931 : tous candidats de *New Party*, Mosley compris, battu aux élections générales
+  - 1932 : un virage fasciste 
+    - dissout le *New Party* pour fonder la *British Union of Fascists*
+    - peu de compagnons politiques lui restent fidèles
+  - 1932 : entamait une relation avec Diana Guiness
+    - en même temps avec sa belle-soeur
+    - ainsi qu'avec d'autres conquêtes passagères
+    - alors que marié
+  - 1932 : publié *A Greater Britain*
+    - « L'État n'a pas de place ni pour le parasite ni pour le décadent, qui consacrent leurs loisirs à détruire leur capacité à servir le bien public. »
+    - cependant ne fait aucune référence aux juifs
+      - Fascisme : dictature populaire
+      - Nazime : fascisme anti-juif
+  - 1933-35 : popularisation
+    - organisé des grand rassemblements à traver du royaume-uni
+      - plus grand : 1934, Royal Albert Hall, 10,000 participants
+      - épicés de nombreux combats avec les communistes
+      - surveillé par MI5
+    - séduitait des députés insatisfaits
+      - Lord Rothermere
+        - propriétaire du Daily Mail
+        - « Hurrah to Black Shirts! »
+      - Diana Mitford
+        - <img src="https://upload.wikimedia.org/wikipedia/commons/5/Oswald_Mosley_and_Diana_Mitford_%2835638188926%29.png/250px-Oswald_Mosley_and_Diana_Mitford_%2835638188926%29.png" alt="Diana Mitford" style="width: 300px;">
+        - aristocrate britannique
+        - amie d'Adolf Hitler
+  - 1933-35 : radicalisation
+    - rencontrait Hitler et prenait un virage antisémite
+      - associé à son discours anti-élitaire, anti-ploutocratique, et nationaliste.
+    - *the Blackshirts*
+      - un service d'ordre militarisé
+      - inspirée de l'Italie sous Mussolini
+    - soutenue financièrement par Mussolini
+      - jusqu'à 1935
+      - et de façon très épisodique par Hitler
+      - transiteur des fonds : Bill Allen
+        - Fascist sincère
+        - qui cependant informe MI5 des transits
+  - 1936 : épousé Diana Mitford, sa maîtresse en secret
+    - en allemand
+    - en présence : Adolf Hitler
+  - 1937 : succès électoral modèste
+    - ~ 20% suffrage
+  - 1937 : division interne
+    - faction de William Joyce quittait
+      - fondu la *National Socialist League*
+      - devenu plus tard le propagandiste principal anglophone pour le Nazi
+      - pendu pour haute trahison par les britanniques
+  - 1937 : difficulté financière
+    - budget réduit par 70 %
+    - état major : 110 parmi 140 licencié dans une journée par motive économique
+  - 1939 : se transformer en mouvement pacifist
+    - *The British Peace: How to Get it*
+  - 1940 : internement sous Defence Regulation 18B
+    - d'abord confinement séparé avec sa femme
+    - puis réuni à Holloway
+      - après le frère de Diana Mitford a joué ses liens avec Winston Churchill
+    - puis sous détention à domicile
+      - pour raisons de santé
+  - post-WWII : réapparition en vue publique
+    - publication du livre *The Alternative*
+    - fondation d'Union Movement
+      - suite de BUF, interdit depuis WWII
+    - nationalisme paneuropéen
+      - anti-immigration
+        - source de criminalité et déviance sexuelles, selon lui
+    - une présence politique minoritaire mais durable
+
+- impacts
+  - un mouvement jamais dominant
+    - Oswald Mosley : position anti-élitaire
+      - société anglaise : dominé par élites
+    - Mauvaise publicité de Nazisme
+      - la nuit des longs couteaux
+      - exacerbé par la méfiance historique d'allemand post-WWI
+  - source d'inspiration pour les extrémists
+    - Brenton Tarrant : auteur des attentats de Christ Church
+      - « principale source idéologique »
+

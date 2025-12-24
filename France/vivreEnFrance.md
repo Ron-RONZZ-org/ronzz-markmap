@@ -11,3 +11,7 @@
 - Finance
   - Financements
     - <a href="https://ronzz.org/credit-agricole-jeune/" target="_blank">Crédit Agricole</a>
+- Valoriser les droits civiques
+  - Voter (citoyen(ne) UE/française)
+    - <a href="https://www.elections.interieur.gouv.fr/mes-demarches/je-minscris-sur-listes-electorales?utm_source=copilot.com" target="_blank">Inscription sur liste electorale</a>
+  

@@ -1,0 +1,57 @@
+# Artificial Neural Network
+
+- data $\longrightarrow$ features $\longrightarrow$ deterministic/probabilistic classifications/predictions $\longrightarrow$ decision
+  - everyday examples
+    - weather report $\longrightarrow$ clothes tomorrow
+    - price from competitors $\longrightarrow$ buy here or elsewhere
+- feature space
+  - ![feature space](../../../ronzz-img/public/img/brilliant-graphics/capture_24-12-2025-17-06-37.png)
+  - $\sum_{i=0}^{n}w_ix_i \ge b $
+- binary neuron
+  - $
+    y = 
+    \begin{cases}
+    1 & \text{if } \sum_{k=1}^{n} w_k x_k - b \ge 0 \\
+    0 & \text{otherwise}
+    \end{cases}
+    $
+
+- sigmoid neuron
+  - ![sigmoid neuron](../../../ronzz-img/public/img/brilliant-graphics/sigmoid-neuron.gif)
+  - ![sigmoid neuron](../../../ronzz-img/public/img/brilliant-graphics/sigmoid-neuron-2.gif)
+  - sigmoid functions
+    - general form : $O=\sigma((\sum I_iw_i)-b)$
+    - most common : $O=\frac{1}{1+e^{b-(\sum I_iw_i)}}$
+    - ![sigmoid functions](/home/rongzhou/Documents/ronzz-img/public/img/brilliant-graphics/capture_24-12-2025-18-38-27.png)
+    - error tolerance
+  - parameters
+    - bias
+    - input weight
+- identity neuron
+  - $O=(\sum I_iw_i)-b$
+
+- layers of abstraction : "hidden neurons"
+  - Neural network $\longrightarrow$ Logic gate
+    - ![XOR](../../../ronzz-img/public/img/brilliant-graphics/XOR.gif)
+  - hidden layers
+    - ![hidden layers](../../../ronzz-img/public/img/brilliant-graphics/hidden-layers-ANN.png)
+  - curve fitting
+    - ![curve fitting](../../../ronzz-img/public/img/brilliant-graphics/curve-fitting.png)
+    - ![multiple decision boundaries](../../../ronzz-img/public/img/brilliant-graphics/capture_24-12-2025-18-23-02.png)
+      - $\longrightarrow$ ![multiple decision boundaries](../../../ronzz-img/public/img/brilliant-graphics/multiple-decision-boundaries.gif)
+    - overfitting
+      - unecessary complexity
+  - universal approximation
+    - binary neuron pair
+      - ![binary neuron pair](../../../ronzz-img/public/img/brilliant-graphics/binary-neuron-pair.gif)
+      - $O=B_1-B_2$
+    - network
+      - universal approximation theorem
+      - ![universal approximation theorem](../../../ronzz-img/public/img/brilliant-graphics/universal-approximation-theorem.png)
+- training
+  - shape prediction
+    - ![shape prediction](/home/rongzhou/Documents/ronzz-img/public/img/brilliant-graphics/capture_24-12-2025-19-26-22.png)
+  - weight map
+     - ![weight map](../../../ronzz-img/public/img/brilliant-graphics/weight-map-1.png)
+     - ![weight map](../../../ronzz-img/public/img/brilliant-graphics/weight-map.png)
+
