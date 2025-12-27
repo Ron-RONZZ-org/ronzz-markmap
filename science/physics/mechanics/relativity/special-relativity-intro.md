@@ -3,7 +3,7 @@
 ## A bit of history
 - 1800 CE : A simpler universe
   - the world was a Newtonian clockwork
-    - <a href="https://img.ronzz.org/img/brilliant-graphics/compression/capture_26-12-2025-18-11-32.png" target="_blank">Newtonian clockwork</a>
+    - <img src="https://img.ronzz.org/img/brilliant-graphics/compression/capture_26-12-2025-18-11-32.png" style="width:300px">Newtonian clockwork
   - classic reference frames : position is relative, but time is constant 
     - Galilean transformation
     - <img src="https://img.ronzz.org/img/brilliant-graphics/relativity/classic-relativity.svg" alt="classic Galilean transformation" style="width: 300px;">
@@ -67,3 +67,76 @@
     - if $\lambda = 700\ nm$, $$ \varphi = \frac{2\pi \Delta\lambda}{\lambda} $$ $$ = 1.077\ rad $$
   - actual observation : no phase shift
     - $$ \varphi_{experimental} = 0 $$
+    - how possible ??
+      - no one had an answer
+
+## The decades-long quest on understanding light
+
+- 1860s : Light is a coordinated oscillation of electric and magnetic fields
+  - ![EM-wave](/home/rongzhou/Documents/ronzz-img/public/img/science/physics/electricity/EM-Wave.gif)
+  - electromagnetic wave
+  - $$ c=2.998 \cdot 10^8 $$
+  - J. C. Maxwell
+    - ![James C. Maxwell](https://upload.wikimedia.org/wikipedia/commons/b/b0/James-Clerk-Maxwell-1831-1879.jpg)
+- 1905 : Einstein postulates on relativity
+  - Einstein : a patent clerk
+    - ![Albert Einstein](../../../../../ronzz-img/public/img/science/physics/electricity/Einstein_patentoffice_full.jpg)
+  - constancy of inertial frame
+    1. The laws of physics are the same in all inertial frames of reference
+      - generalises Newton's 1st law
+    1. The speed of light in free space has the same value in all inertial frames
+      - revolutionary
+      - far-reaching consequences
+        - Einstein : "Listen, I've got a theory of light propagation that doesn't require aether."
+        - Colleague : "Marvelous !"
+        - "In my theory, observers experience events in a different order depending on which direction they're moving."
+        - "Rats !"
+        - (imagined conversation)
+
+## Mind-boggling implications of the constancy of $c$
+
+- example : "simultaneous" laser firing 
+- ![laserfiring](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/laser-competition.svg)
+- ![shuttle-observation](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/shuttle-observation.webp)
+  - $$ v \gt 0 $$
+- ![laser-shooting-A](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/laser-shooting-A.webp)
+  - ![spacetime diagram A](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/laser-firing-1.svg)
+  - $$ \begin{cases} T_A=\frac{\frac{X_0}{2}+vT_A}{c} \\ T_B=\frac{\frac{X_0}{2}-vT_A}{c} \end{cases} $$
+  - $$ \Rightarrow \begin{cases} T_A=\frac{X_0}{2(c-v)} \\ T_B=\frac{X_0}{2(c+v)} \end{cases} $$
+  - $$ T_A-T_B=\frac{\frac{x_0v}{c^2}}{1-(\frac{v}{c})^2} \gt 0 $$
+  - According to observer in the shuttle, **Alain** fires before **Binida**
+- ![laser-shooting-B](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/laser-shooting-B.webp)
+  - by symmetry, $$ T_B-T_A=\frac{\frac{x_0v}{c^2}}{1-(\frac{v}{c})^2} \gt 0 $$
+  - According to observer in the shuttle, **Binida** fires before **Alain** !
+- According to Alain and Binida ?
+  - " We fired at the same time ! "
+    - $$ T_A-T_B=0 $$ !
+  - " Otherwise how can the laser beams arrive at the target simultaneously ? "
+
+## Lorenz Transformation
+
+- Galilean system
+  - $X$
+    - relative $ \Delta X $ : agreement ✅
+    - absolute : disagreement ❌
+  - $T$
+    - relative $ \Delta T $ : agreement ✅
+    - absolute : agreement ✅
+  - ![Galilean-system](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/Galilean-system.svg)
+- Einstein's system
+  - $X$
+    - relative $ \Delta X $: disagreement ❌
+    - absolute : disagreement ❌
+  - $T$
+    - relative $ \Delta T $ : disagreement ❌
+    - absolute : disagreement ❌
+  - ![Einstein-system](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/Einstein-system.svg)
+- Reasoning towards Lorenz transformation
+  - ![Einstein-system-1](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/Einstein-system-1.svg)
+  - own position is always origin in own reference
+    - $$ x=vt \Rightarrow x'=0 $$
+  - all events along line $x'=0$ are simultaneous
+    - $$ x= \frac{tc^2}{v} \Rightarrow t'=0 $$
+  - implied constraint : the transformations must be linear
+    - otherwise the resultant spacetime frame would curve in the original frame !
+    - ![imaginary-non-linear-system](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/imaginary-non-linear-system.svg)

@@ -1,5 +1,9 @@
 # VS Code
 
+## GUI
+
+- Navigation
+  - <img src="https://img.ronzz.org/img/super-user/vs-code/capture_27-12-2025-22-34-43.gif" alt="aperçu" style="width: 300px;">
 ## Keyboard shortcuts
 
 ### Line operations

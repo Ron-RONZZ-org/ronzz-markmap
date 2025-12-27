@@ -1,0 +1,56 @@
+# The Rong Linux Guide
+
+- <a href="https://ronzz.org/bash/" target="_blank">BASH: Configuration and Syntax</a>
+- files
+  - <a href="https://ronzz.org/rlg-manipulation-de-fichiers-2/" target="_blank">file manipulation</a>
+    - Text editing
+    - Translation
+    - Dictionary
+    - Structured data (CSV, etc.)
+    - PDF
+  - file management
+    - <a href="https://ronzz.org/rlg-gestion-de/#gui" target="_blank">GUI</a>
+    - <a href="https://ronzz.org/rlg-gestion-de/#ranger" target="_blank">CLI: Ranger</a>
+    - <a href="https://ronzz.org/rlg-gestion-de/#ls" target="_blank">file list and tree</a>
+    - <a href="https://ronzz.org/rlg-gestion-de/#locate" target="_blank">Locate, Find</a>
+    - <a href="https://ronzz.org/rlg-gestion-de/#du-taille" target="_blank">size and compression</a>
+    - <a href="https://ronzz.org/rlg-gestion-de/#d%C3%A9placement" target="_blank">moving files</a>
+    - <a href="https://ronzz.org/rlg-gestion-de#corbeille" target="_blank">trash</a>
+  - library management
+    - <a href="https://ronzz.org/rlg-gestion-de-bibliotheque-calibre/" target="_blank">Calibre</a>
+- software
+  - <a href="https://ronzz.org/rlg-mises-a-jour/" target="_blank">updates</a>
+  - <a href="https://ronzz.org/rlg-cron/" target="_blank">scheduling automatic tasks: CRON</a>
+  - <a href="https://ronzz.org/rlg-5/" target="_blank">program management</a>
+  - <a href="https://midiverse.org/markmaps/rongzhou/ronlinuxguide-package-management/fullscreen" target="_blank">package management</a>
+- Linux OS Configuration
+  - <a href="https://midiverse.org/markmaps/rongzhou/ronlinuxguide-linux-desktop-environment/fullscreen" target="_blank">desktop environment</a>
+    - Keyboard shortcuts
+    - Default applications
+    - Keyboard layout
+    - System font
+- <a href="https://ronzz.org/rlg-st/" target="_blank">Storage</a>
+- security and access
+  - <a href="https://ronzz.org/rlg-mises-a-jour/" target="_blank">updates</a>
+  - <a href="https://ronzz.org/rlg-guide-to-user-management-in-linux/" target="_blank">user management</a>
+  - password management
+    - <a href="https://ronzz.org/rlg-gestion-des-mots-de-passe/" target="_blank">KeePassXC</a>
+  - <a href="https://ronzz.org/rlg-3/" target="_blank">2FA</a>
+- networking
+  - <a href="https://ronzz.org/rlg-acces-a-distance/" target="_blank">remote access</a>
+  - <a href="https://ronzz.org/rlg-ressources-a-distance/" target="_blank">remote resources</a>
+  - <a href="https://ronzz.org/rlg-configuration-reseau/" target="_blank">network configuration</a>
+  - network security
+    - proxy
+      - <a href="https://developers.cloudflare.com/warp-client/get-started/linux/" target="_blank">warp-cli</a>
+- <a href="https://ronzz.org/rlg/" target="_blank">help</a>
+  - <a href="https://ronzz.org/rlg-man/" target="_blank">Terminal: man</a>
+  - <a href="https://ronzz.org/wierd-linux-problems/" target="_blank">Weird Linux Problems</a>
+- <a href="https://ronzz.org/wsl-windows-subsystem-for-linux/" target="_blank">WSL: Windows Subsystem for Linux</a>
+- <a href="https://ronzz.org/rlg-transitionner-entre-machines/" target="_blank">Migrating between machines</a>
+- <a href="https://ronzz.org/rlg-4/" target="_blank">misc</a>
+  - time synchronization
+  - terminal setup
+    - aliases
+    - environment variables
+  - terminal keyboard shortcuts

@@ -19,9 +19,23 @@
         - leaftlet.js (maps)
         - reveal.js (presentation)
         - markMap (note taking : mindmap)
+- publishing
+  - DTP (Destop Publishing Software)
+  - [Scribus](https://www.scribus.net/)
+    - layout
+    - typesetting
+    - professional image-setting
+    - for
+      - forms
+      - professional-grade animated PDF presentations
+      - posters
+      - magazines
 - databases
   - MariaDB
     - MySQL FOSS
       - by the original creators who opposed Oracle takeover
 - GIS
   - <a href="https://grass.osgeo.org/about/license/" target="_blank">GRASS</a> (Geographic Resources Analysis Support System)
+- Useful resources
+   - Recommended FOSS list by the French government for its own administrations[SILL : Socle interministériel des logiciels libres](https://code.gouv.fr/sill/)
+   - Search engine to identify FOSS alternatives : [AlternativeTo](https://alternativeto.net/)

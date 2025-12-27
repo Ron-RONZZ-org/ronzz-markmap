@@ -1,4 +1,6 @@
-# LibreOffice Impress — Useful Keyboard Shortcuts
+# LibreOffice Impress 
+
+## Useful Keyboard Shortcuts
 
 - Navigation & workflow
   - next placeholder : `Ctrl + Enter`
@@ -51,3 +53,9 @@
   - select tool : `Esc`
   - constrain movement (horizontal/vertical) : `Shift` (while dragging)
   - duplicate while dragging : `Ctrl` (drag‑copy)
+## Cheatsheet
+
+- Overhead menu
+  - `Tools` 
+    - Automatic spellcheck : `Automatic Spell Checking`
+    - Language setting : `Language`

@@ -17,7 +17,7 @@
     % --- Main text (arabic numerals) ---
     \clearpage
     \pagenumbering{arabic}
-
+      
     \chapter{Introduction}
     \chapter{Methods}
     \chapter{Results}
@@ -52,30 +52,6 @@
     \usepackage{graphicx} % better graphic support
     \usepackage{placeins} % for \FloatBarrier
     ```
-
-  - packages
-    - French support :
-      ```latex
-      \usepackage[T1]{fontenc}
-      \usepackage[french]{babel}
-      ```
-    - Math
-      ```latex
-      \usepackage{geometry}
-      \geometry{margin=2.5cm}
-      \usepackage{amsmath,amssymb}
-      \usepackage{siunitx}
-      \sisetup{per-mode=symbol,exponent-product=\cdot,output-decimal-marker=.}
-      ```
-      - symbols
-        - proportional to : `\propto`
-        - because : `\because`
-        - so : `\therefore`
-        - != : `\neq`
-        - perpendicularity : `\bot`
-        - <a href="https://latexeditor.lagrida.com/" target="_blank">others</a>
-
-
 
 - Title
   - Block
@@ -129,7 +105,7 @@
     \addcontentsline{toc}{section}{Acknowledgements} % manually adds an entry into the TOC at the section level with the given title
     ```
 
-- - List of Figures
+- List of Figures
   - `\listoffigures`
 
 - Figures
@@ -173,10 +149,54 @@
     ```
   - Note: figures can be embedded inside list items as needed.
 
-- Math formulas
+- Graphing
   ```latex
+  \usepackage{tikz}
+  \usetikzlibrary{arrows.meta,calc,positioning,decorations.pathreplacing}      
+  \begin{tikzpicture} % simple grid and repeated circles
+    \draw[step=1cm,gray!40] (0,0) grid (5,3);
+    \foreach \x in {0,1,...,5} {
+      \foreach \y in {0,1,2,3} {
+        \fill[blue!30] (\x,\y) circle[radius=2pt];
+      }
+    }
+  \end{tikzpicture}
+  ```
+  - nodes on a circle
+    ```latex
+    \begin{tikzpicture}[every node/.style={draw,circle,inner sep=2pt}]
+      \foreach \i in {1,...,8} {
+        \node at (\i*45:2cm) (N\i) {\i};
+      }
+      \draw[->] (N1) to[bend left] (N3);
+    \end{tikzpicture}
+    ```
+
+  - advanced: computed values with `evaluate` and multiple lists
+    ```latex
+    \begin{tikzpicture}
+      \foreach \angle/\col in {0/red,45/green,90/blue,135/orange} {
+        \draw[fill=\col!50] (\angle:1cm) circle[radius=4mm];
+      }
+      % using evaluate to compute a radius per loop
+      \foreach \i [evaluate=\i as \r using 0.2*\i] in {1,2,3,4} {
+        \draw[gray] (0,0) circle[radius=\r];
+      }
+    \end{tikzpicture}
+    ```
+
+  - Tips:
+    - use `\tikzset{my style/.style={...}}` to define reusable styles.
+    - prefer libraries (`positioning`, `calc`) to simplify coordinates.
+    - `\foreach` supports lists (e.g. `{a,b,c}`), ranges (`{1,...,n}`) and `evaluate` expressions.
+
+- Math
+  ```latex
+  \usepackage{geometry}
+  \geometry{margin=2.5cm}
   \usepackage{amsmath,amssymb}
   \usepackage{siunitx}
+  \sisetup{per-mode=symbol,exponent-product=\cdot,output-decimal-marker=.}
   ```
 
   - Equation block : `align*`
@@ -189,6 +209,33 @@
     \rho &= \frac{M_{\text{unit}}}{V_{\text{unit}}}
     \end{align*}
     ```
+
+  - Cases
+    ```latex
+    \[
+    f(x) = 
+    \begin{cases}
+      x^2, & \text{if } x \ge 0 \\
+      -x,  & \text{if } x < 0
+    \end{cases}
+    \]
+    ```
+    
+  - symbols
+    - proportional to : `\propto`
+    - because : `\because`
+    - so : `\therefore`
+    - != : `\neq`
+    - perpendicularity : `\bot`
+    - <a href="https://latexeditor.lagrida.com/" target="_blank">others</a>
+  
+
+- French support
+  ```latex
+  \usepackage[T1]{fontenc}
+  \usepackage[french]{babel}
+  ```
+    
 
 - Tables
   ```latex

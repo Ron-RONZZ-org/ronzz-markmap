@@ -48,17 +48,23 @@
       - ŝi/li
       - ili
     - aliaj pronomoj
-      - tio
+      - tio (ceci)
+      - tie (là-bas)
       - ĝi
       - ĉi tiu(j)
+      - ĉi (ici)
+        - Ni loĝas tie ĉi
       - tiu(j)
     - demanda
       - kio (quoi)
-      - kiom
+      - kiom (combien)
+      - kiam (quand)
       - kiel (comment)
       - kial (pourquoi)
+      - kiun (lequel/laquelle/lesquels)
       - kie  (où)
       - kiu (qui)
+        - Kiu estas ĉi tiu virino kiu dormas ĉi tie ?
       - Ĉu (si)
   - kvanto
     - ambaŭ
@@ -77,7 +83,9 @@
   - la tempo
     - la periodo
       - ĝis
-        - lundo ĝis vendredo 
+        - lundo ĝis vendredo
+    - nun
+      - Mi nun parolas Esperanton
   - geografio
     - mapo
     - loko
@@ -91,8 +99,8 @@
         - lernejo
         - oficejo
         - registraro
-          - kvitanco
           - aplikaĵo 
+          - kvitanco
         - publika spaco
           - kafejo
           - restoracio
@@ -128,42 +136,44 @@
         - Kanadio
         - Usono/Usonanoj
         - Meksiko
-        - naturo
-        - suno/luno
-          - brilas
-          - sunleviĝo
-        - plantoj
-          - floro
-        - bestoj
-          - mamulo
-            - ĉevalo
-              - vosto
-              - La ĉevalo havas belan voston 
-            - koko/kokino
-            - porko
-            - bovino
-            - kuniklo
-            - ŝafido/ŝafo
-              - Ŝafidoj estas idoj de ŝafoj
-            - urnoj
-          - birdoj : flugas
-          - reptilioj
-            - aligatoro
-            - krokodilo
-              - Krokodilo ne estas aligatoro !
-          - insektoj
-            - abelo
-            - muŝo
-              - Muŝoj ne estas danĝeraj
-            - araneo
-          
-          - fiŝoj
+    - naturo
+      - suno/luno
+        - brilas
+        - sunleviĝo
+      - plantoj
+        - floro
+      - bestoj
+        - mamulo
+          - ĉevalo
+            - vosto
+            - La ĉevalo havas belan voston 
+          - koko/kokino
+          - porko
+          - bovino
+          - kuniklo
+          - ŝafido/ŝafo
+            - Ŝafidoj estas idoj de ŝafoj
+          - urnoj
+        - birdoj : flugas
+        - reptilioj
+          - aligatoro
+          - krokodilo
+            - Krokodilo ne estas aligatoro !
+        - insektoj
+          - abelo
+          - muŝo
+            - Muŝoj ne estas danĝeraj
+          - araneo
+        - fiŝoj
         - arbaro
         - rivero
         - maro
-
+  - transportado
+    - veturiloj
+      - biciklo
+      - aŭto
   - gastronomio
-    - kovrita (couvert)
+    - manĝilaroj (couvert)
       - telero
       - forko
       - tranĉilo
@@ -298,13 +308,6 @@
       - parolas
        - Dio parolas al vi
         - letero
-      - klarigi
-        - montras
-      - komprenas
-      - kantas
-        - kanto
-      - kisas
-        - amo
       - dormas
         - longa
     - transitivaj
@@ -324,8 +327,8 @@
       - finas
       - ludas
       - verkas
-      - skribas
-        - subskriboj
+        - skribas
+          - subskriboj
       - renkontiĝas
         - cafejo
       - legas
@@ -333,7 +336,20 @@
           - legosignoj
         - jurnalojn
           - paĝo
+          - reklamo
+        - afiŝo
       - scias
+      - kovras
+        - Mi kovras lin
+      - klarigi
+        - montras
+        - presentas
+      - tradukas
+      - komprenas
+      - kantas
+        - kanto
+      - kisas
+        - amo
 - konjunkcioj
   - kaj
   - Aŭ
@@ -371,6 +387,7 @@
   - Mi ne povas trovi mian telefonon !
   - Esti malĝoja estas parto de la vivo
   - Kiel oni diras "Mi amas vin" en esperanto ? Mi amas vin !
+    - Mi ankaŭ amas vin !
 
 - adjektivoj
   - bela/malbela
@@ -390,3 +407,5 @@
   - ankaŭ
     - kune
   - denove
+  - poste
+  - kompreneble

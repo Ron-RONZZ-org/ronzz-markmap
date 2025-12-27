@@ -1,0 +1,56 @@
+# The Rong Linux Guide
+
+- [BASH : Configuration et Syntaxe](https://ronzz.org/bash/) 
+- fichiers
+  - [manipulation de fichiers](https://ronzz.org/rlg-manipulation-de-fichiers-2/)
+    - Édition de text
+    - Traduction
+    - Dictionnaire
+    - donnée structuré (CSV,etc.)
+    - PDF
+  - gestion de fichiers
+    - [GUI](https://ronzz.org/rlg-gestion-de/#gui)
+    - [CLI : Ranger](https://ronzz.org/rlg-gestion-de/#ranger)
+    - [liste et arbre de fichier](https://ronzz.org/rlg-gestion-de/#ls)
+    - [Locate, Find](https://ronzz.org/rlg-gestion-de/#locate)
+    - [Taille et Compression](https://ronzz.org/rlg-gestion-de/#du-taille)
+    - [Déplacement](https://ronzz.org/rlg-gestion-de/#d%C3%A9placement)
+    - [Corbeille](https://ronzz.org/rlg-gestion-de#corbeille)
+  - gestion de bibliothèque
+    - [Calibre](https://ronzz.org/rlg-gestion-de-bibliotheque-calibre/)
+- logiciels
+  - [mise à jour](https://ronzz.org/rlg-mises-a-jour/)
+  - [programmer l'exécution automatique des tâches : CRON](https://ronzz.org/rlg-cron/)
+  - [gestion de programmes](https://ronzz.org/rlg-5/)
+  - [gestion de paquets](https://midiverse.org/markmaps/rongzhou/ronlinuxguide-package-management/fullscreen)
+- Configuration Linux OS
+  - [l'environnement bureau](https://ronzz.org/rlg-lenvironnement-bureau/)
+    - Raccourcis claviers
+    - Applications par défaut
+    - Clavier
+    - Police de système
+- [Stockage](https://ronzz.org/rlg-st/)
+- sécurité et accès
+  - [mise à jour](https://ronzz.org/rlg-mises-a-jour/)
+  - [gestion des utilisateurs](https://ronzz.org/rlg-guide-to-user-management-in-linux/)
+  - gestion des mots de passe
+    - [KeePassXC](https://ronzz.org/rlg-gestion-des-mots-de-passe/)
+  - [2FA](https://ronzz.org/rlg-3/)
+- réseaux/networking
+  - [accès à distance](https://ronzz.org/rlg-acces-a-distance/)
+  - [Ressources à distance](https://ronzz.org/rlg-ressources-a-distance/)
+  - [Configuration réseau](https://ronzz.org/rlg-configuration-reseau/)
+  - sécurité de réseau
+    - proxy
+      - [warp-cli](https://developers.cloudflare.com/warp-client/get-started/linux/)
+- [aide](https://ronzz.org/rlg/)
+  - [Terminal : man](https://ronzz.org/rlg-man/)
+  - [Wierd Linux Problems](https://ronzz.org/wierd-linux-problems/) 
+- [WSL : Windows Subsystem for Linux](https://ronzz.org/wsl-windows-subsystem-for-linux/)
+- [Transitionner entre machines](https://ronzz.org/rlg-transitionner-entre-machines/)
+- [divers](https://ronzz.org/rlg-4/)
+  - synchronisation du temps
+  - paramètrage en terminal
+    - alias
+    - environmental variables
+  - raccourcis claviers en terminal
