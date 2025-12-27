@@ -67,6 +67,13 @@
       \usepackage{siunitx}
       \sisetup{per-mode=symbol,exponent-product=\cdot,output-decimal-marker=.}
       ```
+      - symbols
+        - proportional to : `\propto`
+        - because : `\because`
+        - so : `\therefore`
+        - != : `\neq`
+        - perpendicularity : `\bot`
+        - <a href="https://latexeditor.lagrida.com/" target="_blank">others</a>
 
 
 

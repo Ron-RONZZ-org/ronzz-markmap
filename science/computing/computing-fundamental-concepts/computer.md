@@ -55,8 +55,8 @@
 - 1947: Transistors
   - J. Bardeen, W. Brattain, W. Shockley @ Bell Lab
 - Moore's law
-  - $ N_{transistors: t+2}=2N_{transistors: t},\ t\ in \ years $
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/0/Moore%27s_Law_Transistor_Count_1970-2020.png/960px-Moore%27s_Law_Transistor_Count_1970-2020.png" alt="Moores's law, by Max Roser, Hannah Ritchie - https://ourworldindata.org/uploads/2020/11/Transistor-Count-over-time.png, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=98219918" style="width: 300px;">
+  - $$ N_{transistors: t+2}=2N_{transistors: t},\ t\ in \ years $$
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Moore%27s_Law_Transistor_Count_1970-2020.png/960px-Moore%27s_Law_Transistor_Count_1970-2020.png" alt="Moores's law, by Max Roser, Hannah Ritchie - https://ourworldindata.org/uploads/2020/11/Transistor-Count-over-time.png, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=98219918" style="width: 300px;">
 - Today
   - Transistors < 30nm
   - Solid state drive

@@ -1,0 +1,39 @@
+# File compression
+- <img src="https://img.ronzz.org/img/brilliant-graphics/compression/analog-file-compression.avif" alt="analog-file-compression" style="width: 300px;">
+- A classic annoyance of 2010s
+  - <img src="https://img.ronzz.org/img/brilliant-graphics/compression/video-lag.gif" alt="video lag" style="width: 300px;">
+  - HD 1080 P : 1920 x 1080
+    - $2\cdot 10^6$ pixels
+    - raw : ~ 1000 Mbps (Mega BITs per second)
+  - How Netflix streamed well over 5-Mbps WIFIs ?
+    - Video Compression !
+- compression
+  - raw file -computational algorithms-> adequate resolution, smaller size
+- compression strategy
+  - general
+    - lossless
+      - Lempel-Ziv
+        - adaptive dictionary-based algorithm
+        - <img src="https://img.ronzz.org/img/brilliant-graphics/compression/Lempel-Ziv-compression.svg" alt="Lempel-Ziv adaptive dictionary-based algorithm" style="width: 300px;">
+      - examples
+        - PNG
+        - ZIP
+        - GIF
+    - lossy
+      - trim less important
+        - sound : less audible frequencies
+      - merge alike
+        - image : pixels of similar color
+      - examples
+        - intraframe coding
+          - static image compression
+            - JPEG
+            - MPEG, H.264 (each frame)
+          - merging similar pixels
+        - interframe coding
+          - H. 264
+          - <img src="https://img.ronzz.org/img/brilliant-graphics/compression/interframe-encoding.png" alt="interframe-encoding" style="width: 300px;">
+          - <img src="https://img.ronzz.org/img/brilliant-graphics/compression/encoding-algorithm.png" alt="encoding-algorithm" style="width: 300px;">
+          - motion vector
+            - <img src="https://img.ronzz.org/img/brilliant-graphics/compression/capture_25-12-2025-10-56-05.png" alt="motion vector" style="width: 300px;">        
+  

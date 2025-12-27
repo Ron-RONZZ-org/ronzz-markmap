@@ -1,0 +1,45 @@
+## Mars
+
+- 4 billion years ago : a planet that could have been another earth
+  - <img src="https://img.ronzz.org/img/brilliant-graphics/astronomy/mars-past-and-present.png" alt="mars-past-and-present" style="width: 300px;">
+- today : cold and hostile
+  - <img src="https://img.ronzz.org/img/brilliant-graphics/astronomy/earth-vs-mars-stats.png" alt="earth-vs-mars-stats" style="width: 300px;">
+- What happened ?
+  - atmosphere : extremely important for heat conservation
+    - <img src="https://img.ronzz.org/img/brilliant-graphics/astronomy/atmosphere-earth.png" alt="atmosphere-earth" style="width: 300px;">
+  - mars's atmosphere : blown away by solar wind
+    - <img src="https://img.ronzz.org/img/brilliant-graphics/astronomy/solar-wind-particles.png" alt="solar-wind-particles" style="width: 300px;">
+    - gas particles physically sputtered away by high speed particles constituting the solar wind
+- Earth's atmosphere : protected by its magnetic field
+  - which deflects solar wind's charged particles
+  - Earth's core : $$Fe$$ and $$Ni$$
+    - dynamo effect
+      - electromagnetic induction
+        - <img src="https://img.ronzz.org/img/brilliant-graphics/astronomy/magnetic-field-generation.png" alt="magnetic-field-generation" style="width: 300px;">
+      - heat convection
+        - <img src="https://img.ronzz.org/img/brilliant-graphics/astronomy/dynamo-effect.gif" alt="dynamo-effect" style="width: 300px;">
+      - Movement of outer core induced by Earth's rotation
+        - <img src="https://img.ronzz.org/img/brilliant-graphics/astronomy/earth-rotation-magnetic-induction.gif" alt="earth-rotation-magnetic-induction" style="width: 300px;">
+  - weak spot : the poles
+    - <img src="https://img.ronzz.org/img/brilliant-graphics/astronomy/capture_26-12-2025-19-36-09.png" alt="creeping-in" style="width: 300px;">
+    - solar wind particles creep in
+    - cause of polar auroras !
+    - <img src="https://img.ronzz.org/img/brilliant-graphics/astronomy/Northern_Lights_timelapse.gif" alt="polar auroras" style="width: 300px;">
+- Terraforming mars
+  - super conducting ring : artifical magnetic field
+    - <img src="https://img.ronzz.org/img/brilliant-graphics/astronomy/capture_26-12-2025-19-41-07.png" alt="super-conductor-ring" style="width: 300px;">
+    - superconducting : significantly less energy consumption
+      - Space : $ T \longrightarrow 0K$
+      - perfect for superconduction
+    - strategically placed between Mars and Sun
+      - Lagrange point : balanced gravitational pull
+  - or a super conductor torus (belt) !
+    - <img src="https://img.ronzz.org/img/brilliant-graphics/astronomy/superconductor-belt.png" alt="super conductor belt" style="width: 300px;">
+    - uses less material than the super conducting ring (suprisingly)
+    - <img src="https://img.ronzz.org/img/brilliant-graphics/astronomy/capture_26-12-2025-19-51-49.png" alt="torus" style="width: 300px;">
+    - $$ V=2\pi R\cdot \pi r^2=2\pi ^2 R r^2 $$
+    - for a superconductor ring : power correlated positively with $r$ and $R$
+    - hence to avoid self-destruction $$ r \propto \frac{1}{R^2} $$
+    - $$ V= 2\pi ^2 R \frac{k}{R^2}=\frac{2\pi ^2k}{R} \propto \frac{1}{R} $$
+  - $$ \because R_{conducting\ belt} \gg R_{conducting ring} $$
+  - $$ \therefore VR_{conducting\ belt} \gg V_{conducting ring} $$

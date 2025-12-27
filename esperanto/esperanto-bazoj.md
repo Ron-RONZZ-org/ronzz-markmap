@@ -53,11 +53,13 @@
       - ĉi tiu(j)
       - tiu(j)
     - demanda
-      - kio
-      - kiel
-      - kie
-      - kiu
-      - Ĉu
+      - kio (quoi)
+      - kiom
+      - kiel (comment)
+      - kial (pourquoi)
+      - kie  (où)
+      - kiu (qui)
+      - Ĉu (si)
   - kvanto
     - ambaŭ
     - 0-10
@@ -74,6 +76,8 @@
       - dek
   - la tempo
     - la periodo
+      - ĝis
+        - lundo ĝis vendredo 
   - geografio
     - mapo
     - loko
@@ -98,8 +102,9 @@
           - koloro
             - hela/malhela
       - Eŭropo
-        - La viro el Francio
+        - Ni estas eŭropanoj !
         - Francio/Franca
+          - La viro el Francio
           - blua
           - blanka
           - ruĝa
@@ -107,7 +112,7 @@
         - Hispanio/Hispana
         - Germanio/Germana
         - Rusio
-        - Polo
+        - Pollando
       - Esperantio/Esperanta
         - verda
         - blanka
@@ -120,10 +125,9 @@
         - Brazilo
         - Ĉilio
       - Nordameriko
-       - Usono/Usonanoj
-       - Meksiko
-
-
+        - Kanadio
+        - Usono/Usonanoj
+        - Meksiko
         - naturo
         - suno/luno
           - brilas
@@ -131,50 +135,101 @@
         - plantoj
           - floro
         - bestoj
-          - ĉevalo
-          - koko/kokino
-          - porko
+          - mamulo
+            - ĉevalo
+              - vosto
+              - La ĉevalo havas belan voston 
+            - koko/kokino
+            - porko
+            - bovino
+            - kuniklo
+            - ŝafido/ŝafo
+              - Ŝafidoj estas idoj de ŝafoj
+            - urnoj
+          - birdoj : flugas
+          - reptilioj
+            - aligatoro
+            - krokodilo
+              - Krokodilo ne estas aligatoro !
+          - insektoj
+            - abelo
+            - muŝo
+              - Muŝoj ne estas danĝeraj
+            - araneo
+          
+          - fiŝoj
         - arbaro
         - rivero
         - maro
 
   - gastronomio
+    - kovrita (couvert)
+      - telero
+      - forko
+      - tranĉilo
+      - manĝbastonetoj
     - manĝo
       - matenmanĝo
-        - Iafoje matenmanĝo ne estas parto de mia tago.
+        - Iafoje matenmanĝo ne estas parto de mian tagon.
       - tagmanĝo
       - vespermanĝo
     - apetito
     - bongusta
+      - dolĉan
+    - manĝaĵo
       - bakejo
         - sandviĉo
         - kuko
+        - kuketo
+        - biskvito
         - pano
+          - bastonpano
         - ĉokolado
       - fruktoj
         - pomo
         - oranĝon
         - fragojn
+        - ananaso
       - legomoj
         - karoto
         - tomato
       - fromaĝo
       - ĉefa plado
         - picon
+        - rizo
+        - pastaĵo
+        - ovo
         - viando
-          - tranças
+          - tranĉas
+          - graso
           - porkaĵo
+          - kokaĵo
           - bovaĵo
           - ŝafaĵo 
+          - fiŝaĵo
+      - kuiroleo
+        - butero
+        - tro
+          - Estas tro da butero sur ĝi !
+      - spico
+        - iom da
+        - sukero
+        - salo
       - supo
-        - 
+        - tomata soupon
     - trinkaĵoj
+      - trinkas
+        - glason da
+        - tason da
+        - litron da
       - akvo
       - lakto
+        - Miaj infanoj ŝatas trinki ĉokoladan lakton
       - varmaj trinkaĵoj
         - kafo
         - teo
       - nealkoholaĵoj
+        - suko
         - kokao
       - alkoholo
         - biero
@@ -189,18 +244,19 @@
     - geologio
     - informadiko
     - inĝenierarto
-    - psikologio
-    - sociologio
     - ekonomiko
     - medicino
     - farmacio
     - ekologio
     - lingvistiko
   - homscienco
+    - psikologio
     - sociologio
     - historio
     - filozofia
       - modelo
+        - socia klaso
+      - ideo
       - racio
         - valoro
         - kulturo
@@ -221,11 +277,23 @@
     - vendeio
       - superbazaro
       - bakejo
+  - komputiko
+    - dosiero
+    - kazo
+    - 
 - verboj
     - ne-transitivaj
       - estas
+      - povas
+      - provas
+        - Mi provas feliĉe vivi
       - iras
       - venas
+      - vivas
+      - faras
+        - Ŝi faras viziton al Afriko
+      - funkcias
+        - Kiel funkcias dosierkunpremo?
       - laboras
       - parolas
        - Dio parolas al vi
@@ -250,6 +318,8 @@
       - manĝas
       - vojaĝas
       - vidas
+      - sentas
+      - flaras
       - ĝojas
       - finas
       - ludas
@@ -304,16 +374,18 @@
 
 - adjektivoj
   - bela/malbela
-    - miksita 
+  - sama/malsama
+    - miksita
   - granda/malgranda
     - ideala
   - laca/plena de energio
   - simpla/komplika
+  - perda/senperda
   - feliĉa/malfeliĉa
   - kontenta/malkontenta
 - adverbo
   - multe/malmulte
-    - iomete
+    - tiom/iomete
   - nur
   - ankaŭ
     - kune

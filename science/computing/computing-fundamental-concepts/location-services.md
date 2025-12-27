@@ -1,0 +1,45 @@
+# Location services
+
+- cases for localisation
+  - geographically-sensitive service
+    - maps
+      - route-planning
+      - places nearby
+        - restaurants
+        - supermarkets
+    - car hailing/food delivery apps
+    - weather apps
+  - targed ads
+- strategies
+  - approximate
+    - cell tower
+      - <a href="https://img.ronzz.org/img/brilliant-graphics/compression/capture_26-12-2025-12-55-08.png" target="_blank">cell tower localisation</a>
+      - « The phone is the first thing that they will track ! »
+  - precision
+    - GPS
+      - <img src="https://img.ronzz.org/img/brilliant-graphics/localisation/satellite-positioning.gif" alt="satellite-positioning" style="width: 300px;">
+      - <img src="https://img.ronzz.org/img/brilliant-graphics/localisation/satellite-positioning-2.gif" alt="satellite-positioning" style="width: 300px;">
+      - time-based distance determination
+        - $\Delta t=t_{reception}-t_{timestamp\ at\ send}$
+        - nano-second precision required
+          - $E_d=E_t\cdot c$
+          - 1ms error : 300 km deviation
+            - automatic correction strategy
+              - $ E_{t1}=E_{t2}=E_{t3}=E_{t4} $ 
+              - atomic clocks on satellites have nanosecond precision
+              - time drift on the requesting device's clock is the key source of imprecision
+              - which identically affects each satellite ping  
+              - correction : test-and-check compensation until single intersection
+                - <img src="https://img.ronzz.org/img/brilliant-graphics/localisation/automatic-compensation-strategy.gif" alt="automatic-compensation-strategy" style="width: 300px;">
+    - Wi-fi
+      - similar to cell tower identification
+        - pin-point position by intersection
+      - much smaller reception area
+        - improved accuracy
+      - Wi-fi to location map
+        - early days : effort by Google Street View team
+        - today : automatic collection and upload on Android devices by default
+- modern location services : multi-strategy approach
+  - rural : GPS dominant
+  - urban : celltower+Wifi dominant
+  - <img src="https://img.ronzz.org/img/brilliant-graphics/localisation/multi-method-localisation.gif" alt="multi-method-localisation" style="width: 300px;">

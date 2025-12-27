@@ -1,0 +1,22 @@
+# Memory technologies
+
+- Our constant need for more memories
+  - ![constant-need-for-more-memories](../../../../ronzz-img/public/img/brilliant-graphics/memory-technology/constant-need-for-more-memories.png)
+  - ![constant-need-for-more-memories](../../../../ronzz-img/public/img/brilliant-graphics/memory-technology/constant-need-for-more-memories-2.png)
+- RAM : essential to computers
+  - persistant storage technologies are too slow for runtime access
+    - even SSD ! 
+    - ![ordinateur sans RAM](../../../../ronzz-img/public/img/brilliant-graphics/memory-technology/RAM-importance.png)
+  - RAM : Random Access Memory
+    - fast
+    - volatile
+    - expensive
+- RAM : basic structure
+  - ![RAM-structure](../../../../ronzz-img/public/img/brilliant-graphics/memory-technology/RAM-structure.gif)
+  - `write` bit
+  - `data` bits
+- RAM construction : capacitors and transistors
+  - loads of !
+    - ![RAM-chip](../../../../ronzz-img/public/img/brilliant-graphics/memory-technology/RAM-chip.png)
+    - today : nanoscopic 
+    - ![RAM-construction](../../../../ronzz-img/public/img/brilliant-graphics/memory-technology/RAM-construction.gif)

@@ -1,0 +1,51 @@
+# Wireless Communication
+
+- <img src="https://img.ronzz.org/img/brilliant-graphics/communication/devices-communicating-wirelessly-1-EOPGML.png" alt="wireless devices" style="width: 300px;"> Wireless devices
+
+- electromagnetic waves
+  - <img src="https://img.ronzz.org/img/brilliant-graphics/communication/electromagnetic-waves.png" alt="electromagnetic-waves" style="width: 300px;">
+
+- electromagnetic signals
+  - variation $\longrightarrow$ communication
+  - <img src="https://img.ronzz.org/img/brilliant-graphics/communication/electromagnetic-signals.gif" alt="electromagnetic-signals" style="width: 300px;">
+  - applications
+    - amplitude modulation
+      - examples :
+        - <img src="https://img.ronzz.org/img/brilliant-graphics/communication/AM-radio.gif" alt="AM-radio" style="width: 300px;"> AM radio
+        - 
+      - <img src="https://img.ronzz.org/img/brilliant-graphics/communication/AM-signal-wave.gif" alt="AM-signal-wave" style="width: 300px;">
+      - problem : susceptible to background noise
+        - wave superposition
+          - <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Wave_interference_%28beating%29.svg/2048px-Wave_interference_%28beating%29.svg" alt="wave inteference" style="width: 300px;">
+          - natural atmospheric electromagnetic waves 
+            - lightning
+          - cross-interference
+        - <img src="https://img.ronzz.org/img/brilliant-graphics/communication/AM-background-noise.png" alt="AM-background-noise" style="width: 300px;">
+    - frequency modulation
+      - examples : 
+        - FSK : frequency-shift keying
+          - bluetooh
+        - OFDM : Orthogonal Frequency Division Multiplexing
+          - also used in Wifi and cellular signal
+      - <img src="https://img.ronzz.org/img/brilliant-graphics/communication/f.gif" alt="changing wave frequency" style="width: 300px;">
+      - <img src="https://img.ronzz.org/img/brilliant-graphics/communication/f-signal.gif" alt="f-signal" style="width: 300px;">
+    - phase modulation
+      - <img src="https://img.ronzz.org/img/brilliant-graphics/communication/phase-signal.gif" alt="phase modulation" style="width: 300px;">
+    - modern digital modulation methods
+      - multi-characteristic
+        - varies multiple wave characteristic simultaneously
+          - faster
+          - more reliable
+          - examples
+            - QAM - Quadrature Amplitude Modulation 
+              - amplitude modulation + phase modulation
+                - modelled by a complex plan
+                  - <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/MAQ16.svg/250px-MAQ16.svg" alt="QAM" style="width: 300px;"> 16-state QAM constellation diagram
+                - used in Wifi and cellular signal
+    - modern wireless communication protocols
+      - multi-modulation methods
+        - e.g.
+          - LTE : QAM + OFDM / SC‑FDMA
+          - Wi‑Fi : QAM
+            - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WLAN_PCI_Card_cleaned.png/330px-WLAN_PCI_Card_cleaned.png" alt="wi-fi card" style="width: 300px;">
+

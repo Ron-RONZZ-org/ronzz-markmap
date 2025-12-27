@@ -1,0 +1,69 @@
+# Special relativity
+
+## A bit of history
+- 1800 CE : A simpler universe
+  - the world was a Newtonian clockwork
+    - [Newtonian clockwork](/home/rongzhou/Documents/ronzz-img/public/img/brilliant-graphics/compression/capture_26-12-2025-18-11-32.png)
+  - classic reference frames : position is relative, but time is constant 
+    - Galilean transformation
+    - ![classic Galilean transformation](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/classic-relativity.svg)
+- 1900 CE : tout bascule
+  - ![relative clock](ronzz-img/public/img/brilliant-graphics/relativity/relative-clock.gif)
+  - relativity theory : time is also relative
+  - spacetime : space and time are not fundamentally different
+
+## the spacetime diagram
+
+- simplest way to illustrate the phenomenon of temporal relativity
+- ![space-time diagram](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/spacetime-diagram.svg)
+- events : points 
+- $$ (T,C) $$
+
+
+## Getting up to speed : c
+
+- history of $c$
+- 1676 : Ole C. Rømer, Danish astronomer 
+  - discovered systematic differences in the orbital period of Io — one of Jupiter's moons
+  - depending on the time of year
+- how possible ?
+  - ![astronomical-relativity-1](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/astronomical-relativity-1.svg)
+  - $$ T_{obs}=T_{Io} $$
+  - ![astronomical-relativity-2](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/astronomical-relativity-2.svg)
+  - point 1 : $$ (\frac{X_1}{c},X_1) $$
+  - point 2 : $$  (\frac{X_2}{c}+T_{Io},X_2) $$
+  - $$ T_{obs}=T_2-T_1=(\frac{X_2}{c}+T_{Io})-\frac{X_1}{c}=T_{Io}-\frac{(X_2-X_1)}{c} $$
+  - $$ X_2-X_1=T_{obs}v,\ where\ v\ is\ speed\ of\ Io\ relative\ to\ earth $$
+  - $$ T_{obs}=T_{Io}-\frac{(T_{obs}v)}{c} $$
+  - $$ T_{obs}=\frac{T_{Io}}{1+\frac{v}{c}} $$
+
+## Wave : breaking intuition
+
+- wave speeds are independent of source speed
+  - ![speed-of-light-is-constant](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/speed-of-light-is-constant.webp)
+  - ![speed-of-light-is-constant-2](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/speed-of-light-is-constant-2.webp)
+- ![AM-EM-2](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/AM-EM.svg)
+  - if $v_0=0$ : $$ T_0=\frac{L_0}{c_{sound}} $$
+  - $v_0\neq 0$ : $$ \Delta T_{v_{0}} = \frac{L_0}{c_{sound}-v_0} \gt T_0 $$
+- ![AM-EM](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/AM-EM-2.svg)
+  - $$ \Delta T=\frac{\sqrt{L_0+v_0\Delta T}}{c_{sound}} $$
+  - solve for Delta T 
+    -  $$ \Delta T_{v_{0}} = \frac{L_0}{\sqrt{c_{sound}^2-v_{0}^2}} $$ $$ = \frac{\frac{L_0}{c_{sound}}}{\sqrt{1-\frac{v_{0}^2}{c_{sound}^2}}} =  \frac{T_0}{\sqrt{1-\frac{v_{0}^2}{c_{sound}^2}}} \gt T_0 $$
+
+## Michelson & Morley experiment
+- ![Michelson&Morley-experiment-1](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/michelson-morley-1.gif)
+  - $$ \Delta T_R=\frac{L_0}{c-v} $$
+  - $$ \Delta T_L=\frac{L_0}{c+v} $$
+  - $$ \Delta T_{parallel\ total}= T_R+T_L $$ $$ =\frac{\frac{2L_0}{c}}{1-\frac{v^2}{c^2}} $$
+- ![Michelson&Morley-experiment-2](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/michelson-morley-2.gif)
+  - $$ \Delta T_U=\frac{sqrt{L_0^2+(v\Delta T)^2}}{c} $$
+  - $$ \Delta T_D=T_U $$
+  - $$ \Delta T_{vertical\ total}=T_U+T_D $$ $$ =\frac{\frac{2L_0}{c}}{\sqrt{1-\frac{v^2}{c^2}}} $$
+- $$ \Delta T_{parallel-vertical\ difference}=\Delta T_{parallel\ total}- \Delta T_{vertical\ total} $$ $$=\frac{\frac{2L_0}{c}}{1-\frac{v^2}{c^2}}-\frac{\frac{2L_0}{c}}{\sqrt{1-\frac{v^2}{c^2}}} $$ $$\propto L_0 $$
+- ![Michelson and Morley-3](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/michelson-morley-3.gif)
+  - expected observation : visible phase shift
+    - $$ \Delta \lambda = c \Delta T_{parallel-vertical-difference} $$
+    - if $v=3\cdot 10^5 ms^{-1}$, $L_0=11m$, expecting $$ \Delta \lambda = 1.2 \cdot 10^{-7} $$
+    - if $\lambda = 700\ nm$, $$ \varphi = \frac{2\pi \Delta\lambda}{\lambda} $$ $$ = 1.077\ rad $$
+  - actual observation : no phase shift
+    - $$ \varphi_{experimental} = 0 $$

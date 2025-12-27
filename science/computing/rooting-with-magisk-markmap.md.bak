@@ -39,7 +39,7 @@ End
 
 ### 1. Install Magisk APK
 
-- Download from [official repo](https://github.com/topjohnwu/Magisk)
+- Download from <a href="https://github.com/topjohnwu/Magisk" target="_blank">official repo</a>
 - Install on device
 - Do not open yet
 
@@ -119,7 +119,7 @@ End
 - Keep stock image
   - For restoration
 - Test on secondary device first
-- Follow [official guide](https://topjohnwu.github.io/Magisk/install.html)
+- Follow <a href="https://topjohnwu.github.io/Magisk/install.html" target="_blank">official guide</a>
 
 ## Troubleshooting
 

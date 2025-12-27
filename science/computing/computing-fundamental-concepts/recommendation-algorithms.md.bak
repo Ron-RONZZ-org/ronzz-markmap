@@ -1,0 +1,37 @@
+# Recommendation Algorithms
+
+- Age of internet : explosion of information availability
+  - much more content than one can consume in a life-time
+  - key issue : finding relevant content
+    - business significance
+      - engaging content $\longrightarrow$ higher user satisfaction $\longrightarrow$ better engagement $\longrightarrow$ heavier usage $\longrightarrow$ more revenue
+- Collaborative filtering
+  - identify interest groups
+    - on signup : select 3 interests
+    - on the fly : usage stats
+      - time spent
+      - content liked/disliked
+      - author subscribed/favorited
+      - comments/republishing
+      - creator mantra : “like, comment, and subscribe”
+    - user similarity ranking
+      - <img src="https://img.ronzz.org/img/brilliant-graphics/recommendation-algorithms/similarity-ranking.gif" alt="similarity ranking" style="width: 300px;">
+      - approaches :
+        - $ N_{agreement}-N_{disagreement}$
+        - $ \frac{N_{agreement}}{N_{total}} $
+    - creator similarity ranking
+      - user overlap
+        - subscribers/origin of likes
+      - increasing number of appropriate recommendations
+        - especially useful for promoting new creators
+          - novelty bias
+          - 🤑 paid promotion
+    - strategy
+      - multi-facet profile
+        - A may likes badminton and football, while B likes badminton and hates football
+      - test and tweak
+        - algorithm engineers
+  - push content
+    - on-the-fly evaluation
+      - good engagement : continue
+      - bad engagement : shift

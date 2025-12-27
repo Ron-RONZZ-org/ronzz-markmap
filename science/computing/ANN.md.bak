@@ -5,7 +5,7 @@
     - weather report $\longrightarrow$ clothes tomorrow
     - price from competitors $\longrightarrow$ buy here or elsewhere
 - feature space
-  - ![feature space](../../../ronzz-img/public/img/brilliant-graphics/capture_24-12-2025-17-06-37.png)
+  - <img src="https://img.ronzz.org/img/brilliant-graphics/capture_24-12-2025-17-06-37.png" alt="feature space" style="width: 300px;">
   - $\sum_{i=0}^{n}w_ix_i \ge b $
 - binary neuron
   - $
@@ -17,12 +17,12 @@
     $
 
 - sigmoid neuron
-  - ![sigmoid neuron](../../../ronzz-img/public/img/brilliant-graphics/sigmoid-neuron.gif)
-  - ![sigmoid neuron](../../../ronzz-img/public/img/brilliant-graphics/sigmoid-neuron-2.gif)
+  - <img src="https://img.ronzz.org/img/brilliant-graphics/sigmoid-neuron.gif" alt="sigmoid neuron" style="width: 300px;">
+  - <img src="https://img.ronzz.org/img/brilliant-graphics/sigmoid-neuron-2.gif" alt="sigmoid neuron" style="width: 300px;">
   - sigmoid functions
     - general form : $O=\sigma((\sum I_iw_i)-b)$
     - most common : $O=\frac{1}{1+e^{b-(\sum I_iw_i)}}$
-    - ![sigmoid functions](/home/rongzhou/Documents/ronzz-img/public/img/brilliant-graphics/capture_24-12-2025-18-38-27.png)
+    - <img src="https://img.ronzz.org/img/brilliant-graphics/capture_24-12-2025-18-38-27.png" alt="sigmoid functions" style="width: 300px;">
     - error tolerance
   - parameters
     - bias
@@ -32,26 +32,26 @@
 
 - layers of abstraction : "hidden neurons"
   - Neural network $\longrightarrow$ Logic gate
-    - ![XOR](../../../ronzz-img/public/img/brilliant-graphics/XOR.gif)
+    - <img src="https://img.ronzz.org/img/brilliant-graphics/XOR.gif" alt="XOR" style="width: 300px;">
   - hidden layers
-    - ![hidden layers](../../../ronzz-img/public/img/brilliant-graphics/hidden-layers-ANN.png)
+    - <img src="https://img.ronzz.org/img/brilliant-graphics/hidden-layers-ANN.png" alt="hidden layers" style="width: 300px;">
   - curve fitting
-    - ![curve fitting](../../../ronzz-img/public/img/brilliant-graphics/curve-fitting.png)
-    - ![multiple decision boundaries](../../../ronzz-img/public/img/brilliant-graphics/capture_24-12-2025-18-23-02.png)
-      - $\longrightarrow$ ![multiple decision boundaries](../../../ronzz-img/public/img/brilliant-graphics/multiple-decision-boundaries.gif)
+    - <img src="https://img.ronzz.org/img/brilliant-graphics/curve-fitting.png" alt="curve fitting" style="width: 300px;">
+    - <img src="https://img.ronzz.org/img/brilliant-graphics/capture_24-12-2025-18-23-02.png" alt="multiple decision boundaries" style="width: 300px;">
+      - $\longrightarrow$ <img src="https://img.ronzz.org/img/brilliant-graphics/multiple-decision-boundaries.gif" alt="multiple decision boundaries" style="width: 300px;">
     - overfitting
       - unecessary complexity
   - universal approximation
     - binary neuron pair
-      - ![binary neuron pair](../../../ronzz-img/public/img/brilliant-graphics/binary-neuron-pair.gif)
+      - <img src="https://img.ronzz.org/img/brilliant-graphics/binary-neuron-pair.gif" alt="binary neuron pair" style="width: 300px;">
       - $O=B_1-B_2$
     - network
       - universal approximation theorem
-      - ![universal approximation theorem](../../../ronzz-img/public/img/brilliant-graphics/universal-approximation-theorem.png)
+      - <img src="https://img.ronzz.org/img/brilliant-graphics/universal-approximation-theorem.png" alt="universal approximation theorem" style="width: 300px;">
 - training
   - shape prediction
-    - ![shape prediction](/home/rongzhou/Documents/ronzz-img/public/img/brilliant-graphics/capture_24-12-2025-19-26-22.png)
+    - <img src="https://img.ronzz.org/img/brilliant-graphics/capture_24-12-2025-19-26-22.png" alt="shape prediction" style="width: 300px;">
   - weight map
-     - ![weight map](../../../ronzz-img/public/img/brilliant-graphics/weight-map-1.png)
-     - ![weight map](../../../ronzz-img/public/img/brilliant-graphics/weight-map.png)
+     - <img src="https://img.ronzz.org/img/brilliant-graphics/weight-map-1.png" alt="weight map" style="width: 300px;">
+     - <img src="https://img.ronzz.org/img/brilliant-graphics/weight-map.png" alt="weight map" style="width: 300px;">
 

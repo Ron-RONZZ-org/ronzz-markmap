@@ -1,0 +1,45 @@
+# Location services
+
+- cases for localisation
+  - geographically-sensitive service
+    - maps
+      - route-planning
+      - places nearby
+        - restaurants
+        - supermarkets
+    - car hailing/food delivery apps
+    - weather apps
+  - targed ads
+- strategies
+  - approximate
+    - cell tower
+      - [cell tower localisation](/home/rongzhou/Documents/ronzz-img/public/img/brilliant-graphics/compression/capture_26-12-2025-12-55-08.png)
+      - « The phone is the first thing that they will track ! »
+  - precision
+    - GPS
+      - ![satellite-positioning](../../../../ronzz-img/public/img/brilliant-graphics/localisation/satellite-positioning.gif)
+      - ![satellite-positioning](../../../../ronzz-img/public/img/brilliant-graphics/localisation/satellite-positioning-2.gif)
+      - time-based distance determination
+        - $\Delta t=t_{reception}-t_{timestamp\ at\ send}$
+        - nano-second precision required
+          - $E_d=E_t\cdot c$
+          - 1ms error : 300 km deviation
+            - automatic correction strategy
+              - $ E_{t1}=E_{t2}=E_{t3}=E_{t4} $ 
+              - atomic clocks on satellites have nanosecond precision
+              - time drift on the requesting device's clock is the key source of imprecision
+              - which identically affects each satellite ping  
+              - correction : test-and-check compensation until single intersection
+                - ![automatic-compensation-strategy](../../../../ronzz-img/public/img/brilliant-graphics/localisation/automatic-compensation-strategy.gif)
+    - Wi-fi
+      - similar to cell tower identification
+        - pin-point position by intersection
+      - much smaller reception area
+        - improved accuracy
+      - Wi-fi to location map
+        - early days : effort by Google Street View team
+        - today : automatic collection and upload on Android devices by default
+- modern location services : multi-strategy approach
+  - rural : GPS dominant
+  - urban : celltower+Wifi dominant
+  - ![multi-method-localisation](../../../../ronzz-img/public/img/brilliant-graphics/localisation/multi-method-localisation.gif)
