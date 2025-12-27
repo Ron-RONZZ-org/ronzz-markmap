@@ -21,7 +21,7 @@
 
 - ![interface](../../../ronzz-img/public/img/super-user/inkscape/interface_areas.webp) Main UI
   - palette
-	  - [palette](/home/rongzhou/Documents/ronzz-img/public/img/super-user/inkscape/capture_27-12-2025-21-03-25.png)
+	  - ![palette](/home/rongzhou/Documents/ronzz-img/public/img/super-user/inkscape/capture_27-12-2025-21-03-25.png)
 
 - View
   - Toggle visibility : `View > Show/Hide`
@@ -32,6 +32,7 @@
 - Panels
   - Toggle visibility of panels : `F12` 
 	- Document properties `Ctrl+Shift+D`
+	  - ![resize to content](/home/rongzhou/Documents/ronzz-img/public/img/super-user/inkscape/capture_27-12-2025-23-57-59.png)
 	- Layers and Object `Ctrl+Shift+L`
 	- Fill and stroke `Ctrl+Shift+F`
   - Object properties `Ctrl+Shift+O
@@ -41,18 +42,29 @@
 	- `+` / `-` - zoom in / out
 	- Arrow keys - pan
 
-- General Tools
-	- `s` - Select
-    - select multiple : `hold_Shift + click`
-		  - click again to remove object
-			- ![select multiple](../../../ronzz-img/public/img/super-user/inkscape/capture_27-12-2025-15-04-41.gif)
-		- selection strategy : enclosed/touched
-		  - ![selection strategy](../../../ronzz-img/public/img/super-user/inkscape/capture_27-12-2025-15-23-12.png)
-	  - copy objects, select single object + `ctrl+v` : paste on top of selected object
-		- ![sandwich paste](../../../ronzz-img/public/img/super-user/inkscape/paste_on_top_sandwich.webp)
-		- selected : lower sandwich slice 
-	- `t` - Text
-	- `d` - Dropper (color picker)
+## Tools
+
+- `s` - Select
+	- `Shift+Click` - add/remove from selection
+		- `+Ctrl` - select item(s) inside a group
+		- click again to remove object
+		- ![select multiple](../../../ronzz-img/public/img/super-user/inkscape/capture_27-12-2025-15-04-41.gif)
+	- `lt_click + drag` - marquee select
+		- toggle selection strategy : enclosed/touched ![selection strategy](../../../ronzz-img/public/img/super-user/inkscape/capture_27-12-2025-15-23-12.png)
+	- `Ctrl+G` - group
+	- `Ctrl+U` - ungroup
+	- `ctrl+D` : duplicate selection
+	- `Shift+Tab` - cycle selection by stacking order
+	- `Edit → Select Same` - select by stroke/fill/contour/style/type
+	- copy objects, select single object + `ctrl+v` : paste on top of selected object
+	- ![sandwich paste](../../../ronzz-img/public/img/super-user/inkscape/paste_on_top_sandwich.webp)
+	- selected : lower sandwich slice 
+	- `(drag) while selection != null` moving selected objects
+	  - `ctrl` : move only vertically OR horizontally
+
+- `t` - Text
+
+- `d` - Dropper (color picker)
 
 - Shape tools
 	- `r` - Rectangle
@@ -130,7 +142,7 @@
 		- `right_click` to terminate
 		- example : [drawing a book](https://inkscape-manuals.readthedocs.io/en/latest/pen-tool.html)
 		- 6 modes
-		  - [Bézier curve modes](/home/rongzhou/Documents/ronzz-img/public/img/super-user/inkscape/capture_27-12-2025-20-59-07.png)
+		  - ![Bézier curve modes](/home/rongzhou/Documents/ronzz-img/public/img/super-user/inkscape/capture_27-12-2025-20-59-07.png)
 			- Bézier
 			- spiro
 			- BSpline
@@ -139,14 +151,7 @@
 
 
 
-- Selection & groups
-	- `Shift+Click` - add/remove from selection
-	- Click-drag - marquee select
-	- `Ctrl+G` - group
-	- `Ctrl+U` - ungroup
-	- `Ctrl+(Shift)+Click` - select item(s) inside a group
-	- `Shift+Tab` - cycle selection by stacking order
-	- `Edit → Select Same` - select by stroke/fill/contour/style/type
+	
 
 
 

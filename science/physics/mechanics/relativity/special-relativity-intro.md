@@ -134,9 +134,25 @@
 - Reasoning towards Lorenz transformation
   - ![Einstein-system-1](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/Einstein-system-1.svg)
   - own position is always origin in own reference
-    - $$ x=vt \Rightarrow x'=0 $$
+    - $$ t=\frac{x}{v} \Rightarrow x'=0 $$
+    - $$ \therefore x=vt \Rightarrow x'=0 $$
   - all events along line $x'=0$ are simultaneous
     - $$ x= \frac{tc^2}{v} \Rightarrow t'=0 $$
+    - $$ \therefore t= \frac{vx}{c^2} \Rightarrow t'=0 $$
   - implied constraint : the transformations must be linear
     - otherwise the resultant spacetime frame would curve in the original frame !
     - ![imaginary-non-linear-system](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/imaginary-non-linear-system.svg)
+  - $$ \therefore \begin{cases} x' \propto (x-vt) \\ t' \propto (t-\frac{vx}{c^2}) \end{cases}  $$
+    - explanation : $$ a \propto b \Rightarrow a=kb $$. In effect it guarantees the quantity on the left can be expressed as a multiple of the quantity on the right.
+    - Since $$ \begin{cases} x=vt \Rightarrow x-vt=0 \\ x= \frac{tc^2}{v} \Rightarrow t-\frac{vx}{c^2}=0 \end{cases} $$ respectively
+    - It is guaranteed that $$x'=0$$ and $$t'=0$$ respectively under those conditions
+  - $$ \therefore \begin{cases} x' = f(v) (x-vt) \\ t' = g(v) (t-\frac{vx}{c^2}) \end{cases} $$
+  - By 1st postulate of special relativity (symmetry of laws of physics)
+    - $f(v)$ $g(v)$ must be even functions of $v$ 
+      - $$ \begin{cases} f(v)=f(-v) \\ g(v)=g(-v) \end{cases} $$
+      - otherwise ![imaginary-non-symmetric-system](../../../../../ronzz-img/public/img/brilliant-graphics/relativity/imaginary-non-symmetric-system.svg)
+        - time flowing backwards ?!
+        - order of events inversed if relative motion reversed ?!
+    - $$ \therefore \begin{cases} x' = \gamma(v^2) (x-vt) \\ t' = \phi(v^2) (t-\frac{vx}{c^2}) \end{cases} $$
+
+
